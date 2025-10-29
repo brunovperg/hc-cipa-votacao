@@ -22,17 +22,7 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
 	}
 
 	try {
-		console.log('Attempting to connect to database...');
-		console.log('Connection params:', {
-			host: process.env.DATABASE_HOST,
-			user: process.env.DATABASE_USER,
-			database: process.env.DATABASE_NAME,
-			port: process.env.DATABASE_PORT,
-		});
-
 		const connection = await createConnection();
-		console.log('Database connection successful');
-
 		const [rows] = await connection.execute(
 			'SELECT COUNT(*) as count FROM votes WHERE voter_matricula = ?',
 			[voterId]

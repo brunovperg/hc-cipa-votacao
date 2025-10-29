@@ -4,4 +4,8 @@
 --       voter_matricula varchar(50) not null,
 --       vote_time timestamp default current_timestamp
 -- );
+-- DROP TABLE IF EXISTS VOTES;
 
+insert into candidates (number, name) values
+(25, 'Fabricio Teste')
+;

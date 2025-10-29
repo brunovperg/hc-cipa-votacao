@@ -11,6 +11,7 @@ const Matricula = ({
 	setAuthorized: (value: boolean) => void;
 }) => {
 	const [duplicateError, setDuplicateError] = useState(false);
+	const [isLoading, setIsLoading] = useState(false);
 
 	const handleChangeMatricula = (value: string) => {
 		const numericValue = value.replace(/\D/g, '');
@@ -24,6 +25,9 @@ const Matricula = ({
 
 	const handleSubmit = async (event: React.FormEvent<HTMLFormElement>) => {
 		event.preventDefault();
+
+		setIsLoading(true);
+
 		const formData = new FormData(event.currentTarget);
 		const matriculaForm = formData.get('matricula');
 
@@ -38,7 +42,7 @@ const Matricula = ({
 
 		const limitedValue = matriculaStr.slice(0, 6);
 		const paddedValue = limitedValue.padStart(6, '0');
-		setMatricula(paddedValue);
+		// setMatricula(paddedValue);
 
 		try {
 			// Check if voter has already voted using API
@@ -54,18 +58,17 @@ const Matricula = ({
 				);
 				return;
 			}
-			setMatricula(paddedValue);
 
 			const data = await response.json();
-			console.log('Voter check response data:', data);
 
 			if (data.hasVoted) {
 				setDuplicateError(true);
 				setAuthorized(false);
+				setIsLoading(false);
 			} else {
+				setMatricula(paddedValue);
 				setAuthorized(true);
-				console.log(paddedValue);
-				console.log(matricula);
+				setIsLoading(false);
 			}
 		} catch (error) {
 			console.error('Network error:', error);
@@ -96,6 +99,7 @@ const Matricula = ({
 						</Alert>
 					</Collapse>
 				</div>
+				{isLoading && <div>Carregando...</div>}
 				<h1 className='text-2xl font-bold text-white'>
 					Digite sua matrícula
 				</h1>

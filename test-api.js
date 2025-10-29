@@ -2,13 +2,10 @@
 // Run this in your browser console when your dev server is running
 
 async function testAPI() {
-	console.log('Testing API endpoints...');
-
 	// Test 1: Check a voter that doesn't exist
 	try {
 		const response = await fetch('/api/check-voter?voterId=123456');
 		const data = await response.json();
-		console.log('Check voter (new):', data); // Should be { hasVoted: false }
 	} catch (error) {
 		console.error('Error checking voter:', error);
 	}
@@ -24,7 +21,6 @@ async function testAPI() {
 			}),
 		});
 		const data = await response.json();
-		console.log('Submit vote:', data); // Should be { success: true, message: "Vote recorded successfully" }
 	} catch (error) {
 		console.error('Error submitting vote:', error);
 	}
@@ -33,7 +29,6 @@ async function testAPI() {
 	try {
 		const response = await fetch('/api/check-voter?voterId=123456');
 		const data = await response.json();
-		console.log('Check voter (existing):', data); // Should be { hasVoted: true }
 	} catch (error) {
 		console.error('Error checking voter:', error);
 	}
@@ -49,7 +44,6 @@ async function testAPI() {
 			}),
 		});
 		const data = await response.json();
-		console.log('Submit duplicate vote:', response.status, data); // Should be 409 with error
 	} catch (error) {
 		console.error('Error submitting duplicate vote:', error);
 	}

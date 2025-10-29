@@ -1,6 +1,7 @@
 import { Alert, Collapse, Modal, TextField } from '@mui/material';
-import { useEffect, useState } from 'react';
+import { useState } from 'react';
 import { useCandidates } from '../../../hooks/useCandidates';
+import { useAssets } from '../../../contexts/AssetContext';
 
 const VotingCandidates = ({
 	matricula,
@@ -12,12 +13,12 @@ const VotingCandidates = ({
 	setMatricula: (value: string) => void;
 }) => {
 	const [vote, setVote] = useState('');
-	const [voteImage, setVoteImage] = useState('user.png');
 	const [invalidVote, setInvalidVote] = useState(false);
 	const [repeatedVote, setRepeatedVote] = useState(false);
 	const [modalIsOpen, setModalIsOpen] = useState(false);
 	const context = useCandidates();
 	const { candidates } = context;
+	const { getImageSrc, playSound } = useAssets();
 
 	const validCandidate = candidates.some(
 		(v) => v.number === parseInt(typeof vote === 'string' ? vote : '')
@@ -25,46 +26,12 @@ const VotingCandidates = ({
 
 	// We'll check this in handleSubmit via API instead
 
-	useEffect(() => {
-		// Preload all candidate images
-		candidates.forEach((candidate) => {
-			const img = new Image();
-			img.src = `/candidates/${candidate.number}.jpg`;
-		});
-	}, [candidates]);
-
-	useEffect(() => {
-		// Update displayed image when vote changes
-		if (
-			candidates.some(
-				(v) =>
-					v.number ===
-					parseInt(typeof vote === 'string' ? vote : '')
-			)
-		) {
-			setVoteImage(`/candidates/${vote}.jpg`);
-		} else {
-			setVoteImage(`/candidates/user.png`);
-		}
-	}, [vote, candidates]);
-	// load all sounds and pre-play it with no volume to not lag
-	useEffect(() => {
-		const audio1 = new Audio(`/sounds/numero_urna.mp3`);
-		const audio2 = new Audio(`/sounds/confirma_urna.mp3`);
-		audio1.volume = 0;
-		audio2.volume = 0;
-		audio1.play();
-		audio2.play();
-		setModalIsOpen(false);
-	}, []);
-
+	// Images and sounds are now handled by the shared asset preloader hook
 	const playNumberSound = () => {
-		const audio = new Audio(`/sounds/numero_urna.mp3`);
-		audio.play();
+		playSound('numero_urna');
 	};
 	const playConfirmSound = () => {
-		const audio = new Audio(`/sounds/confirma_urna.mp3`);
-		audio.play();
+		playSound('confirma_urna');
 	};
 
 	const showModal = () => {
@@ -100,17 +67,14 @@ const VotingCandidates = ({
 
 		try {
 			// Submit vote to API
-			console.log('Submitting vote:', {
-				voterId: (matricula),
-				candidateNumber: candidateNumber,
-			});
+
 			const response = await fetch('/api/submit-vote', {
 				method: 'POST',
 				headers: {
 					'Content-Type': 'application/json',
 				},
 				body: JSON.stringify({
-					voterId: parseInt(matricula),
+					voterId: matricula,
 					candidateNumber: candidateNumber,
 				}),
 			});
@@ -123,7 +87,6 @@ const VotingCandidates = ({
 				playConfirmSound();
 				setVote('');
 				setMatricula('');
-				console.log('Vote submitted successfully:', data);
 			} else if (response.status === 409) {
 				// Voter has already voted
 				setRepeatedVote(true);
@@ -191,7 +154,7 @@ const VotingCandidates = ({
 				</div>
 
 				<div className='w-60 h-60 overflow-hidden border-2 border-white flex items-center justify-center'>
-					<img src={voteImage} alt='' />
+					<img src={getImageSrc(vote || 'user')} alt='' />
 				</div>
 				<div>
 					<h1 className='text-white text-xl font-semibold'>
