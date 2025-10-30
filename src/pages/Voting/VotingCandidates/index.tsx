@@ -125,7 +125,7 @@ const VotingCandidates = ({
 				className='flex flex-col gap-4 items-center bg-blue-700 px-18 pt-2 pb-8 rounded-2xl'
 				onSubmit={handleSubmit}
 			>
-				<div className='h-12 w-full overflow-visible flex items-start'>
+				<div className='h-12 w-full overflow-visible flex justify-center flex-col'>
 					<Collapse
 						in={invalidVote || repeatedVote}
 						sx={{ width: '100%' }}
@@ -141,16 +141,26 @@ const VotingCandidates = ({
 							{repeatedVote && 'Eleitor já votou!'}
 							{invalidVote &&
 								' Por favor, insira um número de candidato válido.'}
-
-							<button
-								type='button'
-								onClick={() => handleGoBack()}
-								className='ml-4 underline hover:cursor-pointer'
-							>
-								Voltar
-							</button>
+							{!invalidVote && (
+								<button
+									type='button'
+									onClick={() => handleGoBack()}
+									className='ml-4 underline hover:cursor-pointer'
+								>
+									Voltar
+								</button>
+							)}
 						</Alert>
 					</Collapse>
+					{!invalidVote && !repeatedVote && (
+						<button
+							type='button'
+							onClick={() => handleGoBack()}
+							className=' underline hover:cursor-pointer'
+						>
+							&lt; Voltar
+						</button>
+					)}
 				</div>
 
 				<div className='w-60 h-60 overflow-hidden border-2 border-white flex items-center justify-center'>
@@ -208,7 +218,7 @@ const VotingCandidates = ({
 						},
 					}}
 				/>
-				<button className='bg-blue-500 text-white text-2xl p-2 w-48 rounded-md hover:cursor-pointer hover:bg-blue-600'>
+				<button className='bg-blue-500 text-white text-2xl p-2 w-48 rounded-md hover:cursor-pointer hover:bg-blue-900'>
 					Votar
 				</button>
 			</form>

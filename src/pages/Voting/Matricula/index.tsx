@@ -146,7 +146,7 @@ const Matricula = ({
 					}}
 				/>
 
-				<button className='bg-blue-500 text-white text-2xl p-2 w-48 rounded-md hover:cursor-pointer hover:bg-blue-600'>
+				<button className='bg-blue-500 text-white text-2xl p-2 w-48 rounded-md hover:cursor-pointer hover:bg-blue-900'>
 					Enviar
 				</button>
 			</form>
