@@ -17,10 +17,15 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
 
 	const { voterId, candidateNumber }: Vote = req.body;
 
-	if (!voterId || !candidateNumber) {
+	if (!voterId) {
+		console.log(voterId);
+		return res.status(400).json({ error: 'Voter ID is required' });
+	}
+	if (candidateNumber === undefined) {
+		console.log(candidateNumber);
 		return res
 			.status(400)
-			.json({ error: 'Voter ID and candidate number are required' });
+			.json({ error: 'Candidate number is required' });
 	}
 
 	try {

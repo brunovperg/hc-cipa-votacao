@@ -1,5 +1,6 @@
 import { Alert, Collapse, TextField } from '@mui/material';
-import { useState } from 'react';
+import { useContext, useState } from 'react';
+import { EmployeesContext } from '../../../contexts/EmloyeesContext';
 
 const Matricula = ({
 	matricula,
@@ -12,14 +13,35 @@ const Matricula = ({
 }) => {
 	const [duplicateError, setDuplicateError] = useState(false);
 	const [isLoading, setIsLoading] = useState(false);
+	const [employeeName, setEmployeeName] = useState('');
+	const useEmployees = useContext(EmployeesContext);
+
+	// After getting employeesList from context
+	const normalizedEmployees = useEmployees?.employees.map((employee) => ({
+		...employee,
+		matricula: employee.matricula.padStart(6, '0'),
+	}));
+
+	console.log('Normalized Employees:', normalizedEmployees);
 
 	const handleChangeMatricula = (value: string) => {
-		const numericValue = value.replace(/\D/g, '');
+		const numericValue = value.replace(/[\D\s]/g, '');
 		// Handle empty string to avoid NaN
 		if (numericValue === '') {
 			setMatricula(''); // or use a default value
 		} else {
 			setMatricula(numericValue);
+			// normalize matricula
+			const normalizedMatricula = numericValue.padStart(6, '0');
+			// check if the matricula exists in normalizedEmployees
+			const foundEmployee = normalizedEmployees?.find(
+				(emp) => emp.matricula === normalizedMatricula
+			);
+			if (foundEmployee) {
+				setEmployeeName(foundEmployee.name);
+			} else {
+				setEmployeeName('');
+			}
 		}
 	};
 
@@ -75,6 +97,17 @@ const Matricula = ({
 			alert('Erro de conexão. Tente novamente.');
 		}
 	};
+	// USE THIS TO LOAD CANDIDATES PERIODICALLY
+	// useEffect(() => {
+	// 	const runTest = () => {
+	// 		console.log('teste');
+	// 		setTimeout(runTest, 10000); // Schedule next execution
+	// 	};
+
+	// 	runTest(); // Start immediately
+
+	// 	// No cleanup needed for this pattern
+	// }, []);
 	return (
 		<>
 			<form
@@ -83,7 +116,8 @@ const Matricula = ({
 				onSubmit={(e) => {
 					handleSubmit(e);
 				}}
-				className='flex flex-col gap-4 items-center bg-blue-700 px-18 pt-2 pb-8 rounded-2xl'
+				// bg transparent blue box
+				className='flex flex-col gap-4 items-center bg-[#0b1359] border-2 border-white px-18 pt-2 pb-8 rounded-2xl'
 			>
 				<div className='h-8 w-full overflow-visible flex items-start'>
 					<Collapse in={duplicateError} sx={{ width: '100%' }}>
@@ -133,6 +167,9 @@ const Matricula = ({
 								borderColor: 'white',
 							},
 						},
+						'& .MuiInputBase-input': {
+							fontSize: '1.5rem', // or '24px'
+						},
 						'& .MuiInputLabel-root': {
 							color: 'white',
 						},
@@ -145,6 +182,11 @@ const Matricula = ({
 						},
 					}}
 				/>
+				{employeeName && (
+					<div className='text-white text-lg'>
+						Eleitor: {employeeName}
+					</div>
+				)}
 
 				<button className='bg-blue-500 text-white text-2xl p-2 w-48 rounded-md hover:cursor-pointer hover:bg-blue-900'>
 					Enviar

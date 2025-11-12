@@ -24,7 +24,19 @@ const VotingCandidates = ({
 		(v) => v.number === parseInt(typeof vote === 'string' ? vote : '')
 	);
 
-	// We'll check this in handleSubmit via API instead
+	const handleVoteChange = (value: string) => {
+		const numericValue = value.replace(/[\D\s]/g, '');
+		// Handle empty string to avoid NaN
+		if (numericValue === '') {
+			setVote(''); // or use a default value
+		} else {
+			setVote(numericValue);
+		}
+		playNumberSound();
+		if (invalidVote) {
+			setInvalidVote(false);
+		}
+	};
 
 	// Images and sounds are now handled by the shared asset preloader hook
 	const playNumberSound = () => {
@@ -56,9 +68,13 @@ const VotingCandidates = ({
 
 		const formData = new FormData(e.currentTarget);
 		const voteValue = formData.get('vote');
-		const candidateNumber = parseInt(
-			typeof voteValue === 'string' ? voteValue : ''
-		);
+
+		const candidateNumber = () => {
+			if (voteValue === '00') {
+				return 0;
+			}
+			return parseInt(typeof voteValue === 'string' ? voteValue : '');
+		};
 
 		if (!validCandidate) {
 			setInvalidVote(true);
@@ -75,7 +91,7 @@ const VotingCandidates = ({
 				},
 				body: JSON.stringify({
 					voterId: matricula,
-					candidateNumber: candidateNumber,
+					candidateNumber: candidateNumber(),
 				}),
 			});
 
@@ -122,7 +138,7 @@ const VotingCandidates = ({
 			<form
 				autoComplete='off'
 				action=''
-				className='flex flex-col gap-4 items-center bg-blue-700 px-18 pt-2 pb-8 rounded-2xl'
+				className='flex flex-col gap-4 items-center bg-[#0b1359] border-2 border-white px-18 pt-2 pb-8 rounded-2xl'
 				onSubmit={handleSubmit}
 			>
 				<div className='h-12 w-full overflow-visible flex justify-center flex-col'>
@@ -156,18 +172,21 @@ const VotingCandidates = ({
 						<button
 							type='button'
 							onClick={() => handleGoBack()}
-							className=' underline hover:cursor-pointer'
+							className=' underline 4hover:cursor-pointer'
 						>
 							&lt; Voltar
 						</button>
 					)}
 				</div>
 
-				<div className='w-60 h-60 overflow-hidden border-2 border-white flex items-center justify-center'>
-					<img src={getImageSrc(vote || 'user')} alt='' />
+				<div className='w-60 h-80 overflow-hidden border-2 border-white flex items-center justify-center'>
+					<img
+						src={getImageSrc(parseInt(vote) || 'user')}
+						alt=''
+					/>
 				</div>
 				<div>
-					<h1 className='text-white text-xl font-semibold'>
+					<h1 className='text-white text-3xl font-semibold'>
 						{candidates.find(
 							(c) => c.number === parseInt(vote)
 						)?.name || '---'}
@@ -183,11 +202,7 @@ const VotingCandidates = ({
 					name='vote'
 					value={vote}
 					onChange={(e) => {
-						setVote(e.target.value);
-						playNumberSound();
-						if (invalidVote) {
-							setInvalidVote(false);
-						}
+						handleVoteChange(e.target.value);
 					}}
 					inputProps={{
 						maxLength: 2,
@@ -205,6 +220,9 @@ const VotingCandidates = ({
 							'&.Mui-focused fieldset': {
 								borderColor: 'white',
 							},
+						},
+						'& .MuiInputBase-input': {
+							fontSize: '1.5rem', // or '24px'
 						},
 						'& .MuiInputLabel-root': {
 							color: 'white',

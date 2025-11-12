@@ -4,6 +4,7 @@ import { useAssetPreloader } from './hooks/useAssetPreloader';
 import { AssetProvider } from './contexts/AssetContext';
 import BaseLayout from './pages/Layout';
 import Voting from './pages/Voting';
+import { EmployeesProvider } from './contexts/EmloyeesContext';
 
 function App() {
 	const assetPreloader = useAssetPreloader();
@@ -26,18 +27,20 @@ function App() {
 	return (
 		<AssetProvider value={assetPreloader}>
 			<CandidatesProvider>
-				<BrowserRouter>
-					<Routes>
-						<Route path='/' element={<BaseLayout />}>
-							<Route index element={<Voting />} />
-							<Route path='admin' />
-							<Route
-								path='*'
-								element={<h1>Not Found</h1>}
-							/>
-						</Route>
-					</Routes>
-				</BrowserRouter>
+				<EmployeesProvider>
+					<BrowserRouter>
+						<Routes>
+							<Route path='/' element={<BaseLayout />}>
+								<Route index element={<Voting />} />
+								<Route path='admin' />
+								<Route
+									path='*'
+									element={<h1>Not Found</h1>}
+								/>
+							</Route>
+						</Routes>
+					</BrowserRouter>
+				</EmployeesProvider>
 			</CandidatesProvider>
 		</AssetProvider>
 	);

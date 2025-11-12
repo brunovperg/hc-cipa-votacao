@@ -44,7 +44,7 @@ export const useAssetPreloader = () => {
 					img.onload = () => {
 						loadedImages[
 							number.toString()
-						] = `/candidates/${number}.jpg`;
+						] = `/candidates/${number}.png`;
 
 						resolve();
 					};
@@ -54,7 +54,7 @@ export const useAssetPreloader = () => {
 						);
 						resolve(); // Don't reject, just continue
 					};
-					img.src = `/candidates/${number}.jpg`;
+					img.src = `/candidates/${number}.png`;
 				});
 				imagePromises.push(imagePromise);
 			});
