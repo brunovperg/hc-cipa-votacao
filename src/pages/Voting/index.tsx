@@ -1,6 +1,9 @@
 import { useState } from 'react';
 import Matricula from './Matricula';
 import VotingCandidates from './VotingCandidates';
+import { votersNames } from './Matricula/votersNames';
+
+console.log(votersNames);
 
 const Voting = () => {
 	const [matricula, setMatricula] = useState<string>('');
@@ -27,3 +30,4 @@ const Voting = () => {
 	);
 };
 export default Voting;
+

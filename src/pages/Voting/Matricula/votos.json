@@ -1,0 +1,2012 @@
+[
+	{
+		"Nome": "GIRLEIDE CAMPOS SILVA DOS SANTOS",
+		"Chapa": "77430",
+		"Cargo": "AUXILIAR DE ENFERMAGEM",
+		"Horario_voto": "2026-02-25 19:11:10"
+	},
+	{
+		"Nome": "VALTER MARTINS CORREIA FILHO",
+		"Chapa": "65471",
+		"Cargo": "AUXILIAR DE ENFERMAGEM",
+		"Horario_voto": "2026-02-23 13:22:27"
+	},
+	{
+		"Nome": "MARIA ADRIANA DA SILVA NUNES",
+		"Chapa": "74950",
+		"Cargo": "AUXILIAR DE ENFERMAGEM",
+		"Horario_voto": "2026-02-25 19:06:54"
+	},
+	{
+		"Nome": "DERNILENE DOS SANTOS COELHO",
+		"Chapa": "77320",
+		"Cargo": "AUXILIAR DE ENFERMAGEM",
+		"Horario_voto": "2026-02-25 19:15:36"
+	},
+	{
+		"Nome": "ALEXSANDRO PEREIRA DOS SANTOS",
+		"Chapa": "93210",
+		"Cargo": "AUXILIAR DE ENFERMAGEM",
+		"Horario_voto": "2026-02-25 12:53:10"
+	},
+	{
+		"Nome": "ILKA FERREIRA DA SE LIMA",
+		"Chapa": "73610",
+		"Cargo": "AUXILIAR DE ENFERMAGEM",
+		"Horario_voto": "2026-02-25 07:42:16"
+	},
+	{
+		"Nome": "ILDETE BATISTA SOUSA DO VALLE",
+		"Chapa": "78550",
+		"Cargo": "AUXILIAR DE ENFERMAGEM",
+		"Horario_voto": "2026-02-24 08:16:41"
+	},
+	{
+		"Nome": "CRISTIANE DE ALMEIDA SANTOS",
+		"Chapa": "77490",
+		"Cargo": "AUXILIAR DE ENFERMAGEM",
+		"Horario_voto": "2026-02-23 13:04:50"
+	},
+	{
+		"Nome": "FABIANA FEITOSA MELO SOARES",
+		"Chapa": "81240",
+		"Cargo": "AUXILIAR DE ENFERMAGEM",
+		"Horario_voto": "2026-02-24 19:14:42"
+	},
+	{
+		"Nome": "JACQUELINE DA SILVA SANTOS MARQUES",
+		"Chapa": "106580",
+		"Cargo": "AUXILIAR DE ENFERMAGEM",
+		"Horario_voto": "2026-02-23 19:06:01"
+	},
+	{
+		"Nome": "LAURA MARIA DANTAS DOS SANTOS",
+		"Chapa": "69558",
+		"Cargo": "AUXILIAR DE ENFERMAGEM",
+		"Horario_voto": "2026-02-23 19:26:29"
+	},
+	{
+		"Nome": "ROSEMEIRE DA SILVA VALADAO",
+		"Chapa": "96850",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-25 13:03:53"
+	},
+	{
+		"Nome": "CRISTIANE MARIA DOS SANTOS",
+		"Chapa": "120113",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-24 00:36:46"
+	},
+	{
+		"Nome": "VANIA SANTOS FREITAS ROCHA",
+		"Chapa": "62251",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-25 19:13:01"
+	},
+	{
+		"Nome": "YURI OLIVEIRA BARBOSA",
+		"Chapa": "106970",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-25 08:09:47"
+	},
+	{
+		"Nome": "MARIA DAYANE BARRETO DO CARMO",
+		"Chapa": "105080",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-24 14:04:53"
+	},
+	{
+		"Nome": "LORENA PINA GALDINO",
+		"Chapa": "103030",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-23 15:52:22"
+	},
+	{
+		"Nome": "NATALIE OLIVEIRA SANTANA",
+		"Chapa": "102410",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-23 16:54:24"
+	},
+	{
+		"Nome": "JOSE YURI SILVA SANTOS",
+		"Chapa": "120111",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-23 09:54:36"
+	},
+	{
+		"Nome": "ALINE CARDOSO OLIVEIRA PORTUGAL",
+		"Chapa": "85540",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-23 14:01:36"
+	},
+	{
+		"Nome": "MARIA CLAUDIA PEREIRA FARIAS",
+		"Chapa": "95270",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-23 13:25:39"
+	},
+	{
+		"Nome": "THAMIRES SOUZA RODRIGUES",
+		"Chapa": "130687",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-23 13:24:29"
+	},
+	{
+		"Nome": "PEDRO VENICIUS SANTOS LIMA",
+		"Chapa": "119501",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-25 08:19:23"
+	},
+	{
+		"Nome": "ALESSANDRA IGNACIO COSTA",
+		"Chapa": "100870",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-23 16:28:42"
+	},
+	{
+		"Nome": "TAILSON DA SILVA GOIS",
+		"Chapa": "109580",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-23 14:09:07"
+	},
+	{
+		"Nome": "ELIZAYNE SANTOS CIRIACO",
+		"Chapa": "106000",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-23 13:06:02"
+	},
+	{
+		"Nome": "LUANNA FEITOSA MENDONCA",
+		"Chapa": "119889",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-24 14:00:43"
+	},
+	{
+		"Nome": "IRIS REGINA DE AGUIAR LIMA",
+		"Chapa": "97060",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-24 13:49:13"
+	},
+	{
+		"Nome": "JULIANA MENEZES DA SILVA",
+		"Chapa": "108300",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-24 13:10:58"
+	},
+	{
+		"Nome": "ELIAN DO NASCIMENTO SANTIAGO",
+		"Chapa": "107010",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-24 19:07:46"
+	},
+	{
+		"Nome": "FERNANDA SANTANA RIBEIRO",
+		"Chapa": "117070",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-25 13:03:09"
+	},
+	{
+		"Nome": "KAREN TAYNARA SANTOS",
+		"Chapa": "99700",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-25 07:18:30"
+	},
+	{
+		"Nome": "ANA PATRICIA GARCEZ CORREIA",
+		"Chapa": "99490",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-23 14:04:11"
+	},
+	{
+		"Nome": "LAIS GABRIELE FEITOSA SANTOS",
+		"Chapa": "130755",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-24 13:11:51"
+	},
+	{
+		"Nome": "ANA BELIZA RIBEIRO BRITO",
+		"Chapa": "130411",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-23 13:08:41"
+	},
+	{
+		"Nome": "VICTORIA MARIA SANTANA MOURA",
+		"Chapa": "131041",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-25 13:00:49"
+	},
+	{
+		"Nome": "LETICIA CATARINA DIAS SANTOS",
+		"Chapa": "131014",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-24 12:57:58"
+	},
+	{
+		"Nome": "KEROLLY BRUNA ALMEIDA DA SILVA RABELO",
+		"Chapa": "130497",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-24 00:47:09"
+	},
+	{
+		"Nome": "MARILIA ASSIS PRADO BARRETO",
+		"Chapa": "130643",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-23 19:28:11"
+	},
+	{
+		"Nome": "EDNA SANTOS DANTAS",
+		"Chapa": "130949",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-25 13:02:06"
+	},
+	{
+		"Nome": "YANNE LEITE DA SILVA SIMOES",
+		"Chapa": "131072",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-24 13:18:44"
+	},
+	{
+		"Nome": "KEROLYN DIAS DE OLIVEIRA",
+		"Chapa": "102480",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-24 13:34:40"
+	},
+	{
+		"Nome": "CARINE CRUZ GONCALVES SILVA",
+		"Chapa": "105490",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-24 13:30:53"
+	},
+	{
+		"Nome": "ALINE BARRETO DOS SANTOS",
+		"Chapa": "130903",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-23 18:39:17"
+	},
+	{
+		"Nome": "MARIA BEATRIZ BARRETO DA COSTA",
+		"Chapa": "130692",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-24 07:59:35"
+	},
+	{
+		"Nome": "MILENA GUEDES CUNHA",
+		"Chapa": "119861",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-24 07:14:56"
+	},
+	{
+		"Nome": "PAULA LETICIA SANTOS BARRETO",
+		"Chapa": "120311",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-25 13:19:10"
+	},
+	{
+		"Nome": "PAULA HELEN SANTOS BISPO",
+		"Chapa": "119878",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-23 19:14:46"
+	},
+	{
+		"Nome": "WENDSON OLIVEIRA SILVA",
+		"Chapa": "130777",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-23 13:30:06"
+	},
+	{
+		"Nome": "GLEYSIANE DOS SANTOS PINHEIRO FARIAS",
+		"Chapa": "130645",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-25 13:20:11"
+	},
+	{
+		"Nome": "GLAUCIENE FERREIRA LIMA",
+		"Chapa": "119864",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-24 07:19:46"
+	},
+	{
+		"Nome": "DENISSON DOS SANTOS ANDRADE",
+		"Chapa": "119869",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-24 19:15:04"
+	},
+	{
+		"Nome": "LAIS NAARA DE SOUSA",
+		"Chapa": "100850",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-23 18:55:56"
+	},
+	{
+		"Nome": "AIRTON OLIVEIRA PASSOS JUNIOR",
+		"Chapa": "119850",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-23 16:25:14"
+	},
+	{
+		"Nome": "JOAO VICTOR SILVA SANTOS",
+		"Chapa": "107020",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-25 07:29:19"
+	},
+	{
+		"Nome": "KEVIN SILVA CARVALHAL",
+		"Chapa": "119838",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-23 18:58:38"
+	},
+	{
+		"Nome": "LEANDRO BISPO OLIVEIRA",
+		"Chapa": "119852",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-24 19:05:58"
+	},
+	{
+		"Nome": "DAIANE DE SOUZA OLIVEIRA",
+		"Chapa": "130422",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-23 15:48:53"
+	},
+	{
+		"Nome": "MARIA JAKELINE DOS SANTOS DIAS",
+		"Chapa": "106890",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-24 19:25:48"
+	},
+	{
+		"Nome": "JESSICA DA SILVA SANTOS",
+		"Chapa": "119866",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-23 13:27:27"
+	},
+	{
+		"Nome": "VANESSA COSTA SANTOS",
+		"Chapa": "119849",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-23 16:05:55"
+	},
+	{
+		"Nome": "SERGIA RODRIGUES DE OLIVEIRA",
+		"Chapa": "102000",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-24 04:54:35"
+	},
+	{
+		"Nome": "JAINA QUITERIA PEREIRA RODRIGUES SANTOS",
+		"Chapa": "100550",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-24 19:01:04"
+	},
+	{
+		"Nome": "ALINE SILVA DE REZENDE ROCHA",
+		"Chapa": "89970",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-24 07:45:30"
+	},
+	{
+		"Nome": "KARINE MOURA VIEIRA",
+		"Chapa": "120176",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-25 19:27:27"
+	},
+	{
+		"Nome": "AMANDA SANTOS DE ANDRADE",
+		"Chapa": "130468",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-24 13:33:55"
+	},
+	{
+		"Nome": "LAURA EMANUELE MARQUES LIMA",
+		"Chapa": "130707",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-23 19:49:25"
+	},
+	{
+		"Nome": "ALINE SANTOS TORRES",
+		"Chapa": "119867",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-24 13:18:17"
+	},
+	{
+		"Nome": "JOSE EDIVALDO SIQUEIRA SANTOS JUNIOR",
+		"Chapa": "130482",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-23 19:27:46"
+	},
+	{
+		"Nome": "ANDRESSA ARAUJO SOUZA",
+		"Chapa": "108760",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-23 19:35:42"
+	},
+	{
+		"Nome": "GISLANA XAVIER RAMOS",
+		"Chapa": "102440",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-25 18:55:23"
+	},
+	{
+		"Nome": "GILVAN DE FARIAS ALVES",
+		"Chapa": "81360",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-23 13:10:54"
+	},
+	{
+		"Nome": "WILMA ALMEIDA DOS SANTOS RODRIGUES",
+		"Chapa": "119858",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-23 13:26:04"
+	},
+	{
+		"Nome": "KELLY LUANA FONSECA ARAUJO",
+		"Chapa": "130483",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-24 00:50:15"
+	},
+	{
+		"Nome": "PAULO EDUARDO DE ANDRADE FERREIRA",
+		"Chapa": "98250",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-24 07:29:54"
+	},
+	{
+		"Nome": "DENISE RINALDA RIBEIRO",
+		"Chapa": "94190",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-25 07:47:30"
+	},
+	{
+		"Nome": "CARLA FRANCISCA GOIS MACHADO",
+		"Chapa": "130782",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-23 19:38:37"
+	},
+	{
+		"Nome": "NANDIARA VIANA DOS SANTOS",
+		"Chapa": "130651",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-24 12:57:30"
+	},
+	{
+		"Nome": "PABLO HENRIQUE TAUCHERT NASCIMENTO",
+		"Chapa": "130649",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-24 12:58:25"
+	},
+	{
+		"Nome": "MARIA GABRIELY FEREIRA BOMFIM",
+		"Chapa": "119857",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-24 13:15:38"
+	},
+	{
+		"Nome": "LORENA COSTA CERQUEIRA",
+		"Chapa": "119856",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-24 13:32:51"
+	},
+	{
+		"Nome": "ANDREA MENESES DE SOUZA ANDRADE",
+		"Chapa": "100890",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-25 14:05:30"
+	},
+	{
+		"Nome": "MARINA ALVES MILHOME DA SILVA",
+		"Chapa": "120175",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-25 13:45:39"
+	},
+	{
+		"Nome": "JOSE VICENTE SANTOS NETO",
+		"Chapa": "120207",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-26 07:35:13"
+	},
+	{
+		"Nome": "INGRID SANTANA FERNANDES DE OLIVEIRA",
+		"Chapa": "119851",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-24 19:10:50"
+	},
+	{
+		"Nome": "MILENNA FREITAS SANTANA",
+		"Chapa": "119873",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-23 13:09:08"
+	},
+	{
+		"Nome": "JEFERSON BEZERRA MONTEIRO",
+		"Chapa": "119840",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-23 18:58:22"
+	},
+	{
+		"Nome": "ANNY ELLEN DE JESUS NASCIMENTO",
+		"Chapa": "130453",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-24 13:02:33"
+	},
+	{
+		"Nome": "VITORIA MIRELLE DE JESUS SANTOS",
+		"Chapa": "130647",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-23 20:42:13"
+	},
+	{
+		"Nome": "CRISTIANO CARDOSO DOS SANTOS",
+		"Chapa": "119874",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-23 14:08:30"
+	},
+	{
+		"Nome": "RAYSSA OLIVEIRA JACAUNA",
+		"Chapa": "108260",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-24 19:04:19"
+	},
+	{
+		"Nome": "ROSINEIDE MAIA VALENCA MENDONCA",
+		"Chapa": "72770",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-23 19:46:13"
+	},
+	{
+		"Nome": "GABRIELA DOS SANTOS MATEUS",
+		"Chapa": "130496",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-25 19:16:01"
+	},
+	{
+		"Nome": "FERNANDA SANTOS LEITE GOMES",
+		"Chapa": "119842",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-23 13:16:53"
+	},
+	{
+		"Nome": "MARCIO VITOR DE OLIVEIRA SANTOS",
+		"Chapa": "130456",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-24 08:15:43"
+	},
+	{
+		"Nome": "BRUNA ANDRADE SANTOS",
+		"Chapa": "107090",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-25 19:04:05"
+	},
+	{
+		"Nome": "TAINAR SOUSA SANTOS",
+		"Chapa": "106540",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-24 00:45:16"
+	},
+	{
+		"Nome": "SABRINA BORGES BARRETO",
+		"Chapa": "130633",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-23 13:14:25"
+	},
+	{
+		"Nome": "JOAO FELIPE RODRIGUES DUARTE CRUZ",
+		"Chapa": "130760",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-24 20:09:20"
+	},
+	{
+		"Nome": "ALEXANDRE BATISTA RAMOS SANTOS",
+		"Chapa": "119875",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-23 18:56:45"
+	},
+	{
+		"Nome": "TAUANE FREITAS ALVES",
+		"Chapa": "130691",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-24 20:06:40"
+	},
+	{
+		"Nome": "ANNA FERNANDA MATOS SILVA",
+		"Chapa": "130948",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-25 07:33:39"
+	},
+	{
+		"Nome": "JOAO PEDRO SANTOS PASSOS",
+		"Chapa": "130821",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-23 13:12:59"
+	},
+	{
+		"Nome": "ELIANA MENEZES DE ARAUJO",
+		"Chapa": "93510",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-25 07:55:22"
+	},
+	{
+		"Nome": "RIANNY CAROLYNA SOUZA SILVA",
+		"Chapa": "120214",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-23 13:59:57"
+	},
+	{
+		"Nome": "ANA CAROLINA SANTOS SANTANA",
+		"Chapa": "106980",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-25 19:01:23"
+	},
+	{
+		"Nome": "LARISSA GOMES FREITAS DE CASTRO",
+		"Chapa": "130350",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-24 12:59:01"
+	},
+	{
+		"Nome": "JOSIVALDA ALVES DE CARVALHO",
+		"Chapa": "78820",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-23 13:05:39"
+	},
+	{
+		"Nome": "CARLOS EDUARDO GOMES SANTANA",
+		"Chapa": "108790",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-23 19:11:05"
+	},
+	{
+		"Nome": "BRENDA SILVA SOUZA",
+		"Chapa": "130583",
+		"Cargo": "ESTAGIARIO DE ENFERMAGEM",
+		"Horario_voto": "2026-02-25 08:08:18"
+	},
+	{
+		"Nome": "MARIA EDUARDA MELO VEIGA",
+		"Chapa": "130545",
+		"Cargo": "ESTAGIARIO DE ENFERMAGEM",
+		"Horario_voto": "2026-02-25 08:12:09"
+	},
+	{
+		"Nome": "ANA LARA MAIA PEREIRA",
+		"Chapa": "130714",
+		"Cargo": "ESTAGIARIO DE ENFERMAGEM",
+		"Horario_voto": "2026-02-24 14:04:29"
+	},
+	{
+		"Nome": "DANILO FEITOSA CARVALHO",
+		"Chapa": "120355",
+		"Cargo": "ESTAGIARIO DE ENFERMAGEM",
+		"Horario_voto": "2026-02-26 07:44:15"
+	},
+	{
+		"Nome": "YURY APARECIDO RODRIGUES SANTOS",
+		"Chapa": "130612",
+		"Cargo": "ESTAGIARIO DE ENFERMAGEM",
+		"Horario_voto": "2026-02-24 14:14:53"
+	},
+	{
+		"Nome": "BIANCA GABRIELLI SANTOS FERRO",
+		"Chapa": "130379",
+		"Cargo": "ESTAGIARIO DE ENFERMAGEM",
+		"Horario_voto": "2026-02-25 08:07:49"
+	},
+	{
+		"Nome": "VITORIA REGINA NUNES DE OLIVEIRA",
+		"Chapa": "130863",
+		"Cargo": "ESTAGIARIO DE ENFERMAGEM",
+		"Horario_voto": "2026-02-25 08:06:42"
+	},
+	{
+		"Nome": "ANA LUIZA SOUZA MOURA",
+		"Chapa": "130994",
+		"Cargo": "ESTAGIARIO DE ENFERMAGEM",
+		"Horario_voto": "2026-02-25 08:18:20"
+	},
+	{
+		"Nome": "IURI KAUÃ CAVALCANTE SILVA SOARES",
+		"Chapa": "131058",
+		"Cargo": "ESTAGIARIO DE ENFERMAGEM",
+		"Horario_voto": "2026-02-25 08:12:52"
+	},
+	{
+		"Nome": "ALINE DE ABREU XAVIER",
+		"Chapa": "99190",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-25 13:15:14"
+	},
+	{
+		"Nome": "GREYCY DAYANNE MOURA GOMES",
+		"Chapa": "97510",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-23 16:02:46"
+	},
+	{
+		"Nome": "LUANA LUIZA DE OLIVEIRA",
+		"Chapa": "112590",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-25 13:54:04"
+	},
+	{
+		"Nome": "ERIKA THALITA PEREIRA SANTANA",
+		"Chapa": "106810",
+		"Cargo": "ENFERMEIRO",
+		"Horario_voto": "2026-02-24 13:52:04"
+	},
+	{
+		"Nome": "YARA RAYSSA SILVA DOS SANTOS",
+		"Chapa": "120254",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 13:01:24"
+	},
+	{
+		"Nome": "GRAZIELLE BARBOSA DE SOUZA RODRIGUES",
+		"Chapa": "120063",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 13:02:43"
+	},
+	{
+		"Nome": "ROSILENE NUNES DOS SANTOS",
+		"Chapa": "74713",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 19:41:02"
+	},
+	{
+		"Nome": "ANA LUCIA SILVA DA CONCEICAO NASCIMENTO",
+		"Chapa": "94360",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 13:13:49"
+	},
+	{
+		"Nome": "VERONICA FRANCA DOS SANTOS",
+		"Chapa": "87380",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 07:21:03"
+	},
+	{
+		"Nome": "CAROLINA SANTOS DANTAS",
+		"Chapa": "106780",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 07:07:02"
+	},
+	{
+		"Nome": "ALICE DE SOUZA",
+		"Chapa": "102650",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 19:34:12"
+	},
+	{
+		"Nome": "SILVANA MARQUES SANTOS",
+		"Chapa": "85430",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 19:13:38"
+	},
+	{
+		"Nome": "EDUARDO SILVA SANTOS",
+		"Chapa": "131035",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 19:19:01"
+	},
+	{
+		"Nome": "REGICLEIDE DE JESUS",
+		"Chapa": "130716",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 07:28:55"
+	},
+	{
+		"Nome": "ANA CAROLINE VIEIRA SANTOS",
+		"Chapa": "120016",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 07:30:38"
+	},
+	{
+		"Nome": "JOSYANE FONTES SACRAMENTO SANTOS",
+		"Chapa": "130925",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 13:03:18"
+	},
+	{
+		"Nome": "LEILA SANTOS LIMA",
+		"Chapa": "120206",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 07:43:45"
+	},
+	{
+		"Nome": "IARA ASSUNÇÃO DA SILVA",
+		"Chapa": "131073",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 12:57:47"
+	},
+	{
+		"Nome": "AYNA SANTOS DE MELO",
+		"Chapa": "130811",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 19:13:10"
+	},
+	{
+		"Nome": "VALESKA SANTOS OLIVEIRA",
+		"Chapa": "120103",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 19:23:36"
+	},
+	{
+		"Nome": "CRISLEIDE SANTOS",
+		"Chapa": "120100",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 13:06:43"
+	},
+	{
+		"Nome": "ELISANGELA NASCIMENTO DA FRAGA",
+		"Chapa": "131006",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 13:03:39"
+	},
+	{
+		"Nome": "GREISIELA ENILDE SANTOS VIEIRA",
+		"Chapa": "99770",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 19:03:44"
+	},
+	{
+		"Nome": "SUELI DOS SANTOS ANJOS",
+		"Chapa": "108650",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 18:59:09"
+	},
+	{
+		"Nome": "JESSICA PEREIRA OLIVEIRA",
+		"Chapa": "108660",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 13:08:14"
+	},
+	{
+		"Nome": "JOZEANE CORREIA SANTOS",
+		"Chapa": "102660",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 19:54:23"
+	},
+	{
+		"Nome": "MARIA HERMEZINDA CAMPOS DE MELO",
+		"Chapa": "101860",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 13:21:10"
+	},
+	{
+		"Nome": "OLINDINA SOUZA",
+		"Chapa": "101640",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 13:10:03"
+	},
+	{
+		"Nome": "CATIA BITENCOURT SANTOS",
+		"Chapa": "101660",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 13:21:48"
+	},
+	{
+		"Nome": "TEREZA NATALIE COSTA GOMES",
+		"Chapa": "95560",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 13:10:20"
+	},
+	{
+		"Nome": "CRISTIANE MARQUES DOS SANTOS",
+		"Chapa": "120212",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 13:25:19"
+	},
+	{
+		"Nome": "ANA CARLA SANTOS",
+		"Chapa": "97490",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 08:16:23"
+	},
+	{
+		"Nome": "MARIA SUZETE ALVES NUNES",
+		"Chapa": "93610",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 19:00:52"
+	},
+	{
+		"Nome": "MARIA LUCINEIA DOS SANTOS BARBOZA ARAUJO",
+		"Chapa": "55727",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 12:54:03"
+	},
+	{
+		"Nome": "SOLANGE MOREIRA FRANCO SANTOS",
+		"Chapa": "84340",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 13:17:54"
+	},
+	{
+		"Nome": "ANA ISABEL DOS SANTOS",
+		"Chapa": "131012",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 13:11:13"
+	},
+	{
+		"Nome": "CRISLAINE CAROLINE DA PAIXAO SANTOS",
+		"Chapa": "130377",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 07:12:02"
+	},
+	{
+		"Nome": "LETICIA ROSA DOS SANTOS",
+		"Chapa": "130462",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-26 07:29:36"
+	},
+	{
+		"Nome": "RAUL DOS SANTOS NETO",
+		"Chapa": "130464",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 13:09:34"
+	},
+	{
+		"Nome": "NEDISON DOS SANTOS BENTO",
+		"Chapa": "120348",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 13:11:30"
+	},
+	{
+		"Nome": "MYKALENE AQUINO REIS",
+		"Chapa": "120020",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 19:21:28"
+	},
+	{
+		"Nome": "GLAUCIA SANTOS MOURA",
+		"Chapa": "120070",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 12:55:10"
+	},
+	{
+		"Nome": "SUELI DANTAS ANDRADE",
+		"Chapa": "119994",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 19:13:58"
+	},
+	{
+		"Nome": "JAILENE ANDRADE DE JESUS",
+		"Chapa": "120010",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 19:38:47"
+	},
+	{
+		"Nome": "GLEIDIANE APARECIDA DOS SANTOS",
+		"Chapa": "120096",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 13:31:15"
+	},
+	{
+		"Nome": "CRISTINA DOS SANTOS ARAUJO",
+		"Chapa": "120179",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 13:48:48"
+	},
+	{
+		"Nome": "CICERA DOS SANTOS RODRIGUES",
+		"Chapa": "120278",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 07:15:20"
+	},
+	{
+		"Nome": "POLIANA COSTA DE ALCANTARA",
+		"Chapa": "120045",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 19:14:14"
+	},
+	{
+		"Nome": "BARBARA IVANY CORREIA SANTOS",
+		"Chapa": "98550",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 20:16:01"
+	},
+	{
+		"Nome": "JOSILEIDE DOS SANTOS",
+		"Chapa": "99010",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 13:09:03"
+	},
+	{
+		"Nome": "VALERIA CRISTIANE RAMOS DA SILVA",
+		"Chapa": "93640",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 07:37:57"
+	},
+	{
+		"Nome": "IZABELA BATISTA DOS SANTOS",
+		"Chapa": "130577",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 13:33:29"
+	},
+	{
+		"Nome": "ALINE ROBERTA GONCALVES VASCONCELOS",
+		"Chapa": "120038",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 12:56:23"
+	},
+	{
+		"Nome": "JORGEVALDA SALES CARVALHO SANTOS",
+		"Chapa": "120030",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 19:10:19"
+	},
+	{
+		"Nome": "CRISLAINE CALDAS SANTOS",
+		"Chapa": "130953",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 19:00:18"
+	},
+	{
+		"Nome": "ANA CLAUDIA SOARES SILVA DE BARROS",
+		"Chapa": "120040",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 19:05:11"
+	},
+	{
+		"Nome": "ALINE SANTOS DE ANDRADE",
+		"Chapa": "119999",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 07:30:36"
+	},
+	{
+		"Nome": "ANDREA GIOVANNA RIBEIRO LIMA MOREIRA",
+		"Chapa": "120339",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 19:46:35"
+	},
+	{
+		"Nome": "JUSSARA TELES CAMPOS",
+		"Chapa": "120035",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 18:57:47"
+	},
+	{
+		"Nome": "MICHAELLY VITORIA SILVA DE CASTRO",
+		"Chapa": "120014",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 08:09:10"
+	},
+	{
+		"Nome": "MARILENE REI DOS SANTOS",
+		"Chapa": "120062",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 19:45:42"
+	},
+	{
+		"Nome": "APARECIDA BISPO DOS SANTOS",
+		"Chapa": "120036",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 08:14:58"
+	},
+	{
+		"Nome": "MIRELLA GARBENIA GOMES DA SILVA",
+		"Chapa": "120089",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 13:12:38"
+	},
+	{
+		"Nome": "WESLEY DA SILVA BISPO",
+		"Chapa": "120123",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 18:58:45"
+	},
+	{
+		"Nome": "THAYSE BISPO DO AMARAL",
+		"Chapa": "102240",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 07:19:05"
+	},
+	{
+		"Nome": "JOSEVANIA SOBRINHO SANTOS",
+		"Chapa": "105010",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 13:04:05"
+	},
+	{
+		"Nome": "CLAUDICEA DE JESUS SANTOS",
+		"Chapa": "93480",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 19:09:20"
+	},
+	{
+		"Nome": "MARIA CRISTIANE DE SOUZA ROZENDO",
+		"Chapa": "83930",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 07:38:32"
+	},
+	{
+		"Nome": "GLEICE RAMOS DOS SANTOS MACHADO",
+		"Chapa": "95370",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 07:37:24"
+	},
+	{
+		"Nome": "ANDREIZZA SILVA DIAS MELO",
+		"Chapa": "101830",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 13:31:36"
+	},
+	{
+		"Nome": "EVALDA SANTOS",
+		"Chapa": "108120",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 13:32:03"
+	},
+	{
+		"Nome": "LUCICARLA DOS SANTOS GOMES",
+		"Chapa": "108620",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 13:28:04"
+	},
+	{
+		"Nome": "VILMARA DOS SANTOS",
+		"Chapa": "106470",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 07:08:33"
+	},
+	{
+		"Nome": "ANA PAULA ALVES BEZERRA",
+		"Chapa": "106750",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 13:30:44"
+	},
+	{
+		"Nome": "BRUNA LETICIA DE OLIVEIRA MATOS",
+		"Chapa": "106760",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 13:09:25"
+	},
+	{
+		"Nome": "JOISILENE SANTIAGO SILVA RAMOS",
+		"Chapa": "106850",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 14:10:44"
+	},
+	{
+		"Nome": "MARIA JOSE PEREIRA DA SILVA AZEVEDO",
+		"Chapa": "106900",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 19:50:52"
+	},
+	{
+		"Nome": "GESLEN ANE DOS ANJOS OLIVEIRA",
+		"Chapa": "130430",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 07:08:01"
+	},
+	{
+		"Nome": "GILDENSON CRISTIAN SANTANA VIEIRA",
+		"Chapa": "130431",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 13:12:11"
+	},
+	{
+		"Nome": "MARCELO SILVA DE LIMA",
+		"Chapa": "120088",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 07:45:52"
+	},
+	{
+		"Nome": "MAYARA SANTOS TELES",
+		"Chapa": "120037",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 12:59:39"
+	},
+	{
+		"Nome": "TAISLAINE CONCEICAO ALVES SANTOS",
+		"Chapa": "120116",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 19:05:13"
+	},
+	{
+		"Nome": "RAYANE DOS SANTOS FARIAS",
+		"Chapa": "120120",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 13:22:54"
+	},
+	{
+		"Nome": "MAYARA SANTOS SILVA",
+		"Chapa": "130839",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 13:40:28"
+	},
+	{
+		"Nome": "DAISY SABINO DE MORAES",
+		"Chapa": "130957",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 19:03:38"
+	},
+	{
+		"Nome": "LUIZ RICARDO FONTES SANTOS",
+		"Chapa": "106880",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 13:26:51"
+	},
+	{
+		"Nome": "LAYS BASTOS SANTOS",
+		"Chapa": "106870",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 07:16:07"
+	},
+	{
+		"Nome": "FERNANDA CRISTINA BOMFIM DE JESUS",
+		"Chapa": "101780",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 13:42:19"
+	},
+	{
+		"Nome": "ALICE OLIVEIRA DOS SANTOS ANDRADE",
+		"Chapa": "102100",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 13:40:52"
+	},
+	{
+		"Nome": "DAYANE SANTOS BEZERRA",
+		"Chapa": "88400",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 07:44:06"
+	},
+	{
+		"Nome": "EDIVANIA BISPO DOS SANTOS",
+		"Chapa": "94410",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 12:52:20"
+	},
+	{
+		"Nome": "SHIRLEY DOS SANTOS",
+		"Chapa": "80010",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 07:39:03"
+	},
+	{
+		"Nome": "VIVIAN MATOS DE SANTANA",
+		"Chapa": "98240",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 12:56:22"
+	},
+	{
+		"Nome": "ELIENE DOS SANTOS",
+		"Chapa": "106400",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 07:57:44"
+	},
+	{
+		"Nome": "JIVANEIDE DOS SANTOS",
+		"Chapa": "120328",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 14:08:03"
+	},
+	{
+		"Nome": "TAMIRES OLIVEIRA SANTOS",
+		"Chapa": "120046",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 13:21:43"
+	},
+	{
+		"Nome": "ANATALIA ESTEVES SANTOS",
+		"Chapa": "120025",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 14:06:05"
+	},
+	{
+		"Nome": "BRENDA EVELY ALVES DE SOUZA SANTOS",
+		"Chapa": "119996",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 14:13:43"
+	},
+	{
+		"Nome": "AMANDA SOUSA LISBOA",
+		"Chapa": "120012",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 13:22:17"
+	},
+	{
+		"Nome": "ANGELA DA CONCEICAO ROSA",
+		"Chapa": "120069",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 14:08:35"
+	},
+	{
+		"Nome": "MYLENA ALMEIDA TORRES",
+		"Chapa": "120150",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 13:05:15"
+	},
+	{
+		"Nome": "VALERIA DOS SANTOS LIMA",
+		"Chapa": "130319",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 14:16:36"
+	},
+	{
+		"Nome": "ANNE ROSE DA SILVA NASCIMENTO",
+		"Chapa": "130799",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 14:05:17"
+	},
+	{
+		"Nome": "TANIA SANTANA DA MOTA",
+		"Chapa": "120059",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-26 07:34:20"
+	},
+	{
+		"Nome": "AZENATE ANDRADE DA CRUZ",
+		"Chapa": "120052",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 19:34:57"
+	},
+	{
+		"Nome": "MYRIA SILVA DE MELO",
+		"Chapa": "120344",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 13:45:11"
+	},
+	{
+		"Nome": "BIANCA SALES DOS SANTOS MELO",
+		"Chapa": "130436",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 13:01:12"
+	},
+	{
+		"Nome": "MAYCON DAVID SANTOS",
+		"Chapa": "105540",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 13:00:18"
+	},
+	{
+		"Nome": "KATIUCIA MARCELINA RODRIGUES MONTEIRO",
+		"Chapa": "106860",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 19:33:24"
+	},
+	{
+		"Nome": "LIVIA DOS SANTOS",
+		"Chapa": "106420",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 19:25:37"
+	},
+	{
+		"Nome": "ROSA MARIA DOS SANTOS",
+		"Chapa": "106460",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 19:03:02"
+	},
+	{
+		"Nome": "JOSE RODRIGUES OLIVEIRA",
+		"Chapa": "87880",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 18:55:55"
+	},
+	{
+		"Nome": "INEPHANIO CARDOSO NETO",
+		"Chapa": "96460",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 13:27:03"
+	},
+	{
+		"Nome": "LUANA DE ANDRADE",
+		"Chapa": "99130",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 19:07:32"
+	},
+	{
+		"Nome": "FERNANDA VIEIRA LIMA",
+		"Chapa": "130719",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 19:13:43"
+	},
+	{
+		"Nome": "KIMBERLY SURIEL COUTINHO DE ANDRADE",
+		"Chapa": "120048",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 19:08:39"
+	},
+	{
+		"Nome": "CASSIA RUTH MACEDO DE OLIVEIRA",
+		"Chapa": "120029",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 14:01:01"
+	},
+	{
+		"Nome": "MARLA JAQUELINE SILVA DE CARVALHO",
+		"Chapa": "120021",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 14:15:59"
+	},
+	{
+		"Nome": "MAIKO MADSON ARAUJO PEREIRA",
+		"Chapa": "130586",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 08:07:20"
+	},
+	{
+		"Nome": "VICTORIA CRISTINA DOS SANTOS",
+		"Chapa": "130724",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 19:00:19"
+	},
+	{
+		"Nome": "DENISE MARIA DOS SANTOS",
+		"Chapa": "108380",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 13:46:17"
+	},
+	{
+		"Nome": "NEIDSON RODRIGUES DOS SANTOS",
+		"Chapa": "106930",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 14:15:31"
+	},
+	{
+		"Nome": "JACIARA ANUNCIACAO ALVES",
+		"Chapa": "87870",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 08:13:37"
+	},
+	{
+		"Nome": "JOSEILMA BISPO DOS SANTOS",
+		"Chapa": "94150",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 19:27:28"
+	},
+	{
+		"Nome": "ADRIANA ALVES DOS SANTOS OLIVEIRA",
+		"Chapa": "102130",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 19:31:41"
+	},
+	{
+		"Nome": "JESSICA DE SANTANA ANCHIETA",
+		"Chapa": "120307",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 07:26:13"
+	},
+	{
+		"Nome": "YGOR SOUZA SANTOS ALVES",
+		"Chapa": "130470",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 19:16:10"
+	},
+	{
+		"Nome": "CARMEM SILVA DOS SANTOS",
+		"Chapa": "120047",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 19:07:38"
+	},
+	{
+		"Nome": "THAINAR BARROS DE MELO",
+		"Chapa": "120041",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 19:08:02"
+	},
+	{
+		"Nome": "DANIELA ARQUILINO BARRETO",
+		"Chapa": "120068",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 13:29:40"
+	},
+	{
+		"Nome": "LAELSON SOUZA LIMA",
+		"Chapa": "89660",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 07:16:35"
+	},
+	{
+		"Nome": "TAIS NUNES MUNIZ",
+		"Chapa": "91530",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 13:57:31"
+	},
+	{
+		"Nome": "DENISE DOS SANTOS",
+		"Chapa": "93260",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 19:01:59"
+	},
+	{
+		"Nome": "MARAJANE ROCHA SANTOS DANTAS",
+		"Chapa": "120022",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 13:01:37"
+	},
+	{
+		"Nome": "DOUGLAS WENDEL BATISTA DA SILVA",
+		"Chapa": "120032",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 13:19:14"
+	},
+	{
+		"Nome": "ADAILMA DOS SANTOS",
+		"Chapa": "100160",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 13:40:06"
+	},
+	{
+		"Nome": "PATRICIA DOS SANTOS",
+		"Chapa": "131016",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 13:20:51"
+	},
+	{
+		"Nome": "GABRIELA ARAUJO MALTAS",
+		"Chapa": "130576",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 13:07:36"
+	},
+	{
+		"Nome": "MILENA RAMOS COUTO",
+		"Chapa": "120097",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 07:12:28"
+	},
+	{
+		"Nome": "MARY JANE SANTOS PASSOS",
+		"Chapa": "120099",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 13:02:31"
+	},
+	{
+		"Nome": "PAULICIANA ALINE SILVA SANTOS",
+		"Chapa": "120093",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 14:17:35"
+	},
+	{
+		"Nome": "DEBORA SANTOS CRUZ",
+		"Chapa": "120114",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 07:32:08"
+	},
+	{
+		"Nome": "KAREN DOMENIQUE SANTOS DA SILVA",
+		"Chapa": "101000",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 13:47:20"
+	},
+	{
+		"Nome": "MARCIONILA SIQUEIRA AMPARO",
+		"Chapa": "85510",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 13:46:56"
+	},
+	{
+		"Nome": "ANIELE VALERIA DOS SANTOS",
+		"Chapa": "93890",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 07:47:50"
+	},
+	{
+		"Nome": "MARIA DO CARMO SOUZA LIMA",
+		"Chapa": "88580",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 08:14:11"
+	},
+	{
+		"Nome": "MEIRE LUCIE REZENDE DOS SANTOS",
+		"Chapa": "94460",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 13:39:56"
+	},
+	{
+		"Nome": "VALDEREZ DA SILVA DANTAS",
+		"Chapa": "95360",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 08:09:03"
+	},
+	{
+		"Nome": "GRAZIELA SOUZA DE ARAUJO",
+		"Chapa": "96590",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 18:53:36"
+	},
+	{
+		"Nome": "MARIA APARECIDA DA SILVA",
+		"Chapa": "97130",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 19:06:29"
+	},
+	{
+		"Nome": "GEDIVALDA DOS SANTOS",
+		"Chapa": "93870",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 18:54:18"
+	},
+	{
+		"Nome": "THIAGO CIRIACO DA RESSURREICAO",
+		"Chapa": "119721",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 07:09:24"
+	},
+	{
+		"Nome": "LEIDE DAIANE DE JESUS OLIVEIRA",
+		"Chapa": "106490",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-26 07:48:15"
+	},
+	{
+		"Nome": "MARCIA GOMES DOS SANTOS",
+		"Chapa": "107070",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 13:25:04"
+	},
+	{
+		"Nome": "SHERONN SANTOS COUTINHO RODRIGUES",
+		"Chapa": "106950",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 13:04:27"
+	},
+	{
+		"Nome": "KAROLINE DORIA PRATA DE LIMA",
+		"Chapa": "101730",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 19:11:31"
+	},
+	{
+		"Nome": "EDINALDO DA COSTA TAVARES",
+		"Chapa": "130796",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 19:12:49"
+	},
+	{
+		"Nome": "ELISANGELA CARLOS DOS SANTOS",
+		"Chapa": "130638",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 18:52:27"
+	},
+	{
+		"Nome": "MANUELA SIQUEIRA FLORENCIO",
+		"Chapa": "130420",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 08:03:20"
+	},
+	{
+		"Nome": "MARIA LUCINEIA DOS SANTOS ROCHAA MATOS",
+		"Chapa": "130469",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 18:59:16"
+	},
+	{
+		"Nome": "FRANCIELY DOS SANTOS",
+		"Chapa": "130434",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 14:02:29"
+	},
+	{
+		"Nome": "FRANCISNEY SANTOS GOMES",
+		"Chapa": "120166",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 07:23:28"
+	},
+	{
+		"Nome": "DANIELA APARECIDA BENTO",
+		"Chapa": "120271",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 12:58:22"
+	},
+	{
+		"Nome": "BRENA VILANOVA SILVA DOS SANTOS",
+		"Chapa": "130901",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 19:29:34"
+	},
+	{
+		"Nome": "ANTONIO JOSE NASCIMENTO DA SILVA",
+		"Chapa": "130331",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 16:27:25"
+	},
+	{
+		"Nome": "THAMIRIS ALLEXIA DA SILVA LIMA",
+		"Chapa": "101740",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 13:23:19"
+	},
+	{
+		"Nome": "VIVIANY RODRIGUES SILVA",
+		"Chapa": "102360",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 07:36:28"
+	},
+	{
+		"Nome": "JOSINETE DE OLIVEIRA SANTANA",
+		"Chapa": "105060",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 19:31:42"
+	},
+	{
+		"Nome": "JAQUELINE ROBERTA DOS SANTOS",
+		"Chapa": "102990",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 13:07:15"
+	},
+	{
+		"Nome": "TASSIO ANDRE ALVES ANDRADE",
+		"Chapa": "130463",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 07:09:44"
+	},
+	{
+		"Nome": "JOSEANE VASCONCELOS SANTOS",
+		"Chapa": "97500",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 19:28:52"
+	},
+	{
+		"Nome": "NATIANE SANTOS DE JEUS SILVA",
+		"Chapa": "120044",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 13:14:45"
+	},
+	{
+		"Nome": "MARIA DO SOCORRO BATISTA DE SOUSA",
+		"Chapa": "65340",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 13:00:58"
+	},
+	{
+		"Nome": "LUCILENE DA CONCEICAO ARAUJO",
+		"Chapa": "94130",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 13:04:57"
+	},
+	{
+		"Nome": "CLEDIO SANTOS FERREIRA",
+		"Chapa": "93420",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 18:49:59"
+	},
+	{
+		"Nome": "EDENILTON OLIVEIRA DE JESUS",
+		"Chapa": "93220",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-26 07:23:33"
+	},
+	{
+		"Nome": "KEZIA BARRETO DE JESUS DOS SANTOS",
+		"Chapa": "99630",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 19:19:39"
+	},
+	{
+		"Nome": "NAYARA LOPES SANTOS",
+		"Chapa": "99610",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 19:06:40"
+	},
+	{
+		"Nome": "ANA REGINA MENESES PINHEIRO",
+		"Chapa": "99510",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 19:18:26"
+	},
+	{
+		"Nome": "THAYANNE NUNES MENEZES",
+		"Chapa": "96020",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 19:17:58"
+	},
+	{
+		"Nome": "JACONIAS DA SILVA SANTOS",
+		"Chapa": "108870",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 07:22:11"
+	},
+	{
+		"Nome": "CRISTIANE NASCIMENTO SOUZA",
+		"Chapa": "108690",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 19:09:06"
+	},
+	{
+		"Nome": "JOAO VITOR DOS ANJOS OLIVEIRA",
+		"Chapa": "107080",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 19:17:00"
+	},
+	{
+		"Nome": "JESSICA ENGHEL OLIVEIRA CORREIA",
+		"Chapa": "106570",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 13:14:55"
+	},
+	{
+		"Nome": "DRILAINE DE MENEZES SILVA",
+		"Chapa": "102310",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 19:09:30"
+	},
+	{
+		"Nome": "INGRID NAYARA SILVA DOS SANTOS",
+		"Chapa": "102640",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 19:05:38"
+	},
+	{
+		"Nome": "EDILANGE SILVA DE MATOS",
+		"Chapa": "130650",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 07:40:35"
+	},
+	{
+		"Nome": "SAYARA NOEMY COSTA SANTOS",
+		"Chapa": "120085",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 19:15:52"
+	},
+	{
+		"Nome": "MANOEL VIEIRA DA COSTA JUNIOR",
+		"Chapa": "119993",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 13:17:25"
+	},
+	{
+		"Nome": "MIRIAN GABRIELA SANTOS",
+		"Chapa": "120050",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 19:06:22"
+	},
+	{
+		"Nome": "BIANCA STEFANIE SANTOS REIS",
+		"Chapa": "120015",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 19:16:18"
+	},
+	{
+		"Nome": "ELISANGELA SANTOS FERREIRA",
+		"Chapa": "130721",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 13:04:33"
+	},
+	{
+		"Nome": "JEANE DOS SANTOS FARIAS SALES",
+		"Chapa": "130328",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 07:46:46"
+	},
+	{
+		"Nome": "MAYARA DE JESUS SANTOS",
+		"Chapa": "130373",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 07:06:40"
+	},
+	{
+		"Nome": "MISAELY MONTEIRO SILVA",
+		"Chapa": "130325",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 13:15:35"
+	},
+	{
+		"Nome": "ANNE LAYSSA SANTOS PEREIRA",
+		"Chapa": "130374",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 13:36:57"
+	},
+	{
+		"Nome": "MIRIAN KAROLINE DOS SANTOS",
+		"Chapa": "130902",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 13:07:03"
+	},
+	{
+		"Nome": "MACLESIA DE JESUS SANTOS",
+		"Chapa": "120043",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 19:10:35"
+	},
+	{
+		"Nome": "SAYONARA ROSE DE JESUS GOMES",
+		"Chapa": "120066",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 18:57:53"
+	},
+	{
+		"Nome": "DIANA XAVIER JOVENTINO",
+		"Chapa": "120095",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 13:06:44"
+	},
+	{
+		"Nome": "VICTOR HUGO BATISTA DOS SANTOS",
+		"Chapa": "120084",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 07:51:58"
+	},
+	{
+		"Nome": "ISABELA ALVES DE ANDRADE",
+		"Chapa": "120079",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 13:03:42"
+	},
+	{
+		"Nome": "RAFAELA FLORENCIO DOS SANTOS",
+		"Chapa": "120077",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 13:18:43"
+	},
+	{
+		"Nome": "LEONICA DE LIMA MATIAS",
+		"Chapa": "120081",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 13:13:25"
+	},
+	{
+		"Nome": "LARISSA RAYANE DOS SANTOS RAMOS",
+		"Chapa": "120091",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 13:18:21"
+	},
+	{
+		"Nome": "VALERIA MACIEL DE OLIVEIRA SANTOS",
+		"Chapa": "102850",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 14:08:04"
+	},
+	{
+		"Nome": "MARIA CLESIA OLIVEIRA OSVALDO",
+		"Chapa": "106430",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 07:28:17"
+	},
+	{
+		"Nome": "LEILA PEREIRA VELOZO",
+		"Chapa": "108920",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 19:15:30"
+	},
+	{
+		"Nome": "MARIA CRISTIANE DOS SANTOS",
+		"Chapa": "98540",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 18:53:15"
+	},
+	{
+		"Nome": "MARIA LUCIENE SILVA NASCIMENTO",
+		"Chapa": "88050",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 19:49:21"
+	},
+	{
+		"Nome": "FLAVIA MARIA ARAUJO SILVA",
+		"Chapa": "89521",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 18:54:58"
+	},
+	{
+		"Nome": "JAQUELINE PAIXAO OLIVEIRA",
+		"Chapa": "120024",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-25 19:04:51"
+	},
+	{
+		"Nome": "DEBORA DOS SANTOS CRUZ",
+		"Chapa": "120019",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-23 13:02:14"
+	},
+	{
+		"Nome": "ANDREA SANTOS NASCIMENTO",
+		"Chapa": "85030",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-26 07:22:43"
+	},
+	{
+		"Nome": "SILVIA CARLA ANDRADE DA SILVA",
+		"Chapa": "93340",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 19:12:12"
+	},
+	{
+		"Nome": "IVONETE FREIRE DA ROCHA",
+		"Chapa": "78050",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 07:20:36"
+	},
+	{
+		"Nome": "MARILENE SANTOS SILVA",
+		"Chapa": "73024",
+		"Cargo": "TECNICO EM ENFERMAGEM",
+		"Horario_voto": "2026-02-24 13:29:11"
+	}
+]

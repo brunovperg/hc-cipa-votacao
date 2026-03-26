@@ -18,11 +18,14 @@ const BaseLayout = () => {
 				<h1 className='outline-text font-bold text-4xl'>
 					Eleições
 				</h1>
-				<img src={LogoCipa} alt='' className=' my-4 w-56 h-w-56' />
-				<h1 className='outline-text font-bold text-4xl'>
-					2025/2026
+				<h1 className='outline-text font-bold text-4xl text-center mt-4'>
+					Ética de Enfermagem
 				</h1>
 			</div>
+			{/* <img src={LogoCipa} alt='' className=' my-4 w-56 h-w-56' />
+				<h1 className='outline-text font-bold text-4xl'>
+					2025/2026
+				</h1> */}
 			<div className='flex justify-center py-4'>
 				<LogoCirurgia
 					className='  text-white w-full'

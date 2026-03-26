@@ -12,6 +12,7 @@ const Matricula = ({
 	setAuthorized: (value: boolean) => void;
 }) => {
 	const [duplicateError, setDuplicateError] = useState(false);
+	const [notFoundError, setNotFoundError] = useState(false);
 	const [isLoading, setIsLoading] = useState(false);
 	const [employeeName, setEmployeeName] = useState('');
 	const useEmployees = useContext(EmployeesContext);
@@ -19,10 +20,8 @@ const Matricula = ({
 	// After getting employeesList from context
 	const normalizedEmployees = useEmployees?.employees.map((employee) => ({
 		...employee,
-		matricula: employee.matricula.padStart(6, '0'),
+		CHAPA: employee.CHAPA.padStart(7, '0'),
 	}));
-
-	console.log('Normalized Employees:', normalizedEmployees);
 
 	const handleChangeMatricula = (value: string) => {
 		const numericValue = value.replace(/[\D\s]/g, '');
@@ -32,13 +31,13 @@ const Matricula = ({
 		} else {
 			setMatricula(numericValue);
 			// normalize matricula
-			const normalizedMatricula = numericValue.padStart(6, '0');
+			const normalizedMatricula = numericValue.padStart(7, '0');
 			// check if the matricula exists in normalizedEmployees
 			const foundEmployee = normalizedEmployees?.find(
-				(emp) => emp.matricula === normalizedMatricula
+				(emp) => emp.CHAPA === normalizedMatricula,
 			);
 			if (foundEmployee) {
-				setEmployeeName(foundEmployee.name);
+				setEmployeeName(foundEmployee.NOME);
 			} else {
 				setEmployeeName('');
 			}
@@ -62,21 +61,38 @@ const Matricula = ({
 			return;
 		}
 
-		const limitedValue = matriculaStr.slice(0, 6);
-		const paddedValue = limitedValue.padStart(6, '0');
+		const limitedValue = matriculaStr.slice(0, 7);
+		const paddedValue = limitedValue.padStart(7, '0');
 		// setMatricula(paddedValue);
+
+		try {
+			// Check if matricula exists in normalizedEmployees
+			const foundEmployee = normalizedEmployees?.find(
+				(emp) => emp.CHAPA === paddedValue,
+			);
+			if (!foundEmployee) {
+				setNotFoundError(true);
+				setIsLoading(false);
+				return;
+			}
+		} catch (error) {
+			console.error('Error checking employee:', error);
+
+			setIsLoading(false);
+			return;
+		}
 
 		try {
 			// Check if voter has already voted using API
 			const response = await fetch(
-				`/api/check-voter?voterId=${paddedValue}`
+				`/api/check-voter?voterId=${paddedValue}`,
 			);
 
 			if (!response.ok) {
 				const errorData = await response.json();
 				console.error('API Error:', response.status, errorData);
 				alert(
-					`Erro na API: ${response.status} - ${errorData.error}`
+					`Erro na API: ${response.status} - ${errorData.error}`,
 				);
 				return;
 			}
@@ -120,7 +136,10 @@ const Matricula = ({
 				className='flex flex-col gap-4 items-center bg-[#0b1359] border-2 border-white px-18 pt-2 pb-8 rounded-2xl'
 			>
 				<div className='h-8 w-full overflow-visible flex items-start'>
-					<Collapse in={duplicateError} sx={{ width: '100%' }}>
+					<Collapse
+						in={duplicateError || notFoundError}
+						sx={{ width: '100%' }}
+					>
 						<Alert
 							variant='filled'
 							severity='error'
@@ -129,7 +148,9 @@ const Matricula = ({
 								height: 'fit-content',
 							}}
 						>
-							Matrícula já utilizada para votar!
+							{duplicateError
+								? 'Matrícula já utilizada para votar!'
+								: 'Matrícula não encontrada. Verifique e tente novamente.'}
 						</Alert>
 					</Collapse>
 				</div>
@@ -147,7 +168,7 @@ const Matricula = ({
 					value={matricula === null ? '' : matricula.toString()}
 					inputProps={{
 						minLength: 4,
-						maxLength: 6,
+						maxLength: 7,
 						inputMode: 'numeric',
 						pattern: '[0-9]*',
 					}}
@@ -184,7 +205,7 @@ const Matricula = ({
 				/>
 				{employeeName && (
 					<div className='text-white text-lg'>
-						Eleitor: {employeeName}
+						Eleitor: <strong>{employeeName}</strong>
 					</div>
 				)}
 

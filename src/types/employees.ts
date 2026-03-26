@@ -1,5 +1,5 @@
 export interface EmployeeType {
-   id?: number;
-   matricula: string;
-   name: string;
+	CHAPA: number;
+	NOME: string;
+	CARGO: string;
 }

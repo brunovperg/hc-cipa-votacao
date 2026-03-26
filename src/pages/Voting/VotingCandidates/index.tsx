@@ -172,7 +172,7 @@ const VotingCandidates = ({
 						<button
 							type='button'
 							onClick={() => handleGoBack()}
-							className=' underline 4hover:cursor-pointer'
+							className=' underline hover:cursor-pointer'
 						>
 							&lt; Voltar
 						</button>

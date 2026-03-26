@@ -21,13 +21,13 @@ export const useAssetPreloader = () => {
 				if (response.ok) {
 					const data = await response.json();
 					candidateNumbers = data.candidates.map(
-						(c: { number: number }) => c.number
+						(c: { number: number }) => c.number,
 					);
 				}
 			} catch (error) {
 				console.warn(
 					'Failed to fetch candidates for preloading, using fallback:',
-					error
+					error,
 				);
 			}
 
@@ -42,19 +42,18 @@ export const useAssetPreloader = () => {
 				const imagePromise = new Promise<void>((resolve) => {
 					const img = new Image();
 					img.onload = () => {
-						loadedImages[
-							number.toString()
-						] = `/candidates/${number}.png`;
+						loadedImages[number.toString()] =
+							`/candidates/${number}.jpeg`;
 
 						resolve();
 					};
 					img.onerror = () => {
 						console.warn(
-							`Failed to load image for candidate ${number}`
+							`Failed to load image for candidate ${number}`,
 						);
 						resolve(); // Don't reject, just continue
 					};
-					img.src = `/candidates/${number}.png`;
+					img.src = `/candidates/${number}.jpeg`;
 				});
 				imagePromises.push(imagePromise);
 			});
@@ -84,7 +83,7 @@ export const useAssetPreloader = () => {
 				} catch (error) {
 					console.warn(
 						`Failed to load sound: ${soundFile}`,
-						error
+						error,
 					);
 				}
 			});
@@ -117,7 +116,7 @@ export const useAssetPreloader = () => {
 		if (sound) {
 			sound.currentTime = 0; // Reset to beginning
 			sound.play().catch((err) =>
-				console.warn('Failed to play sound:', err)
+				console.warn('Failed to play sound:', err),
 			);
 		} else {
 			console.warn(`Sound not found: ${soundName}`);

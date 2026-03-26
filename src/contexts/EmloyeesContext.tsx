@@ -1,14 +1,11 @@
 import { createContext, useState } from 'react';
 import type { EmployeeType } from '../types/employees';
+import { funcionarios } from '../pages/Voting/Matricula/funcionarios';
 
 export const EmployeesProvider: React.FC<{ children: React.ReactNode }> = ({
 	children,
 }) => {
-	const [employees, setEmployees] = useState<EmployeeType[]>([
-		{ id: 1, matricula: '119621', name: 'User' },
-		{ id: 2, matricula: '2405', name: 'Medico' },
-		{ id: 3, matricula: '03304', name: 'Enfermeiro' },
-	]);
+	const [employees, setEmployees] = useState<EmployeeType[]>(funcionarios);
 	return (
 		<EmployeesContext.Provider value={{ employees, setEmployees }}>
 			{children}

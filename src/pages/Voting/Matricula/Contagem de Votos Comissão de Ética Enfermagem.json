@@ -1,0 +1,2024 @@
+[
+	{
+		"id" : 849,
+		"candidate_number" : 8,
+		"voter_matricula" : "0120111",
+		"vote_time" : "2026-02-23 09:54:36"
+	},
+	{
+		"id" : 850,
+		"candidate_number" : 14,
+		"voter_matricula" : "0065340",
+		"vote_time" : "2026-02-23 13:00:58"
+	},
+	{
+		"id" : 851,
+		"candidate_number" : 10,
+		"voter_matricula" : "0120254",
+		"vote_time" : "2026-02-23 13:01:24"
+	},
+	{
+		"id" : 852,
+		"candidate_number" : 14,
+		"voter_matricula" : "0120019",
+		"vote_time" : "2026-02-23 13:02:14"
+	},
+	{
+		"id" : 853,
+		"candidate_number" : 14,
+		"voter_matricula" : "0120063",
+		"vote_time" : "2026-02-23 13:02:43"
+	},
+	{
+		"id" : 854,
+		"candidate_number" : 18,
+		"voter_matricula" : "0131006",
+		"vote_time" : "2026-02-23 13:03:39"
+	},
+	{
+		"id" : 855,
+		"candidate_number" : 16,
+		"voter_matricula" : "0105010",
+		"vote_time" : "2026-02-23 13:04:05"
+	},
+	{
+		"id" : 856,
+		"candidate_number" : 14,
+		"voter_matricula" : "0106950",
+		"vote_time" : "2026-02-23 13:04:27"
+	},
+	{
+		"id" : 857,
+		"candidate_number" : 14,
+		"voter_matricula" : "0077490",
+		"vote_time" : "2026-02-23 13:04:50"
+	},
+	{
+		"id" : 858,
+		"candidate_number" : 14,
+		"voter_matricula" : "0120150",
+		"vote_time" : "2026-02-23 13:05:15"
+	},
+	{
+		"id" : 859,
+		"candidate_number" : 14,
+		"voter_matricula" : "0120150",
+		"vote_time" : "2026-02-23 13:05:15"
+	},
+	{
+		"id" : 860,
+		"candidate_number" : 2,
+		"voter_matricula" : "0078820",
+		"vote_time" : "2026-02-23 13:05:39"
+	},
+	{
+		"id" : 861,
+		"candidate_number" : 6,
+		"voter_matricula" : "0106000",
+		"vote_time" : "2026-02-23 13:06:02"
+	},
+	{
+		"id" : 862,
+		"candidate_number" : 11,
+		"voter_matricula" : "0120095",
+		"vote_time" : "2026-02-23 13:06:44"
+	},
+	{
+		"id" : 863,
+		"candidate_number" : 14,
+		"voter_matricula" : "0102990",
+		"vote_time" : "2026-02-23 13:07:15"
+	},
+	{
+		"id" : 864,
+		"candidate_number" : 11,
+		"voter_matricula" : "0108660",
+		"vote_time" : "2026-02-23 13:08:14"
+	},
+	{
+		"id" : 865,
+		"candidate_number" : 3,
+		"voter_matricula" : "0130411",
+		"vote_time" : "2026-02-23 13:08:41"
+	},
+	{
+		"id" : 866,
+		"candidate_number" : 7,
+		"voter_matricula" : "0119873",
+		"vote_time" : "2026-02-23 13:09:08"
+	},
+	{
+		"id" : 867,
+		"candidate_number" : 14,
+		"voter_matricula" : "0101640",
+		"vote_time" : "2026-02-23 13:10:03"
+	},
+	{
+		"id" : 868,
+		"candidate_number" : 1,
+		"voter_matricula" : "0081360",
+		"vote_time" : "2026-02-23 13:10:54"
+	},
+	{
+		"id" : 869,
+		"candidate_number" : 11,
+		"voter_matricula" : "0130431",
+		"vote_time" : "2026-02-23 13:12:11"
+	},
+	{
+		"id" : 870,
+		"candidate_number" : 14,
+		"voter_matricula" : "0120089",
+		"vote_time" : "2026-02-23 13:12:38"
+	},
+	{
+		"id" : 871,
+		"candidate_number" : 1,
+		"voter_matricula" : "0130821",
+		"vote_time" : "2026-02-23 13:12:59"
+	},
+	{
+		"id" : 872,
+		"candidate_number" : 11,
+		"voter_matricula" : "0120081",
+		"vote_time" : "2026-02-23 13:13:25"
+	},
+	{
+		"id" : 873,
+		"candidate_number" : 14,
+		"voter_matricula" : "0094360",
+		"vote_time" : "2026-02-23 13:13:49"
+	},
+	{
+		"id" : 874,
+		"candidate_number" : 5,
+		"voter_matricula" : "0130633",
+		"vote_time" : "2026-02-23 13:14:25"
+	},
+	{
+		"id" : 875,
+		"candidate_number" : 11,
+		"voter_matricula" : "0106570",
+		"vote_time" : "2026-02-23 13:14:55"
+	},
+	{
+		"id" : 876,
+		"candidate_number" : 14,
+		"voter_matricula" : "0130325",
+		"vote_time" : "2026-02-23 13:15:35"
+	},
+	{
+		"id" : 877,
+		"candidate_number" : 7,
+		"voter_matricula" : "0119842",
+		"vote_time" : "2026-02-23 13:16:53"
+	},
+	{
+		"id" : 878,
+		"candidate_number" : 13,
+		"voter_matricula" : "0084340",
+		"vote_time" : "2026-02-23 13:17:54"
+	},
+	{
+		"id" : 879,
+		"candidate_number" : 11,
+		"voter_matricula" : "0120091",
+		"vote_time" : "2026-02-23 13:18:21"
+	},
+	{
+		"id" : 880,
+		"candidate_number" : 11,
+		"voter_matricula" : "0120077",
+		"vote_time" : "2026-02-23 13:18:43"
+	},
+	{
+		"id" : 881,
+		"candidate_number" : 18,
+		"voter_matricula" : "0120032",
+		"vote_time" : "2026-02-23 13:19:14"
+	},
+	{
+		"id" : 882,
+		"candidate_number" : 15,
+		"voter_matricula" : "0131016",
+		"vote_time" : "2026-02-23 13:20:51"
+	},
+	{
+		"id" : 883,
+		"candidate_number" : 14,
+		"voter_matricula" : "0101660",
+		"vote_time" : "2026-02-23 13:21:48"
+	},
+	{
+		"id" : 884,
+		"candidate_number" : 14,
+		"voter_matricula" : "0065471",
+		"vote_time" : "2026-02-23 13:22:27"
+	},
+	{
+		"id" : 885,
+		"candidate_number" : 13,
+		"voter_matricula" : "0120120",
+		"vote_time" : "2026-02-23 13:22:54"
+	},
+	{
+		"id" : 886,
+		"candidate_number" : 14,
+		"voter_matricula" : "0101740",
+		"vote_time" : "2026-02-23 13:23:19"
+	},
+	{
+		"id" : 887,
+		"candidate_number" : 7,
+		"voter_matricula" : "0130687",
+		"vote_time" : "2026-02-23 13:24:29"
+	},
+	{
+		"id" : 888,
+		"candidate_number" : 4,
+		"voter_matricula" : "0095270",
+		"vote_time" : "2026-02-23 13:25:39"
+	},
+	{
+		"id" : 889,
+		"candidate_number" : 4,
+		"voter_matricula" : "0119858",
+		"vote_time" : "2026-02-23 13:26:04"
+	},
+	{
+		"id" : 890,
+		"candidate_number" : 18,
+		"voter_matricula" : "0106880",
+		"vote_time" : "2026-02-23 13:26:51"
+	},
+	{
+		"id" : 891,
+		"candidate_number" : 5,
+		"voter_matricula" : "0119866",
+		"vote_time" : "2026-02-23 13:27:27"
+	},
+	{
+		"id" : 892,
+		"candidate_number" : 11,
+		"voter_matricula" : "0108620",
+		"vote_time" : "2026-02-23 13:28:04"
+	},
+	{
+		"id" : 893,
+		"candidate_number" : 14,
+		"voter_matricula" : "0120068",
+		"vote_time" : "2026-02-23 13:29:40"
+	},
+	{
+		"id" : 894,
+		"candidate_number" : 8,
+		"voter_matricula" : "0130777",
+		"vote_time" : "2026-02-23 13:30:06"
+	},
+	{
+		"id" : 895,
+		"candidate_number" : 13,
+		"voter_matricula" : "0106750",
+		"vote_time" : "2026-02-23 13:30:44"
+	},
+	{
+		"id" : 896,
+		"candidate_number" : 13,
+		"voter_matricula" : "0101830",
+		"vote_time" : "2026-02-23 13:31:36"
+	},
+	{
+		"id" : 897,
+		"candidate_number" : 13,
+		"voter_matricula" : "0108120",
+		"vote_time" : "2026-02-23 13:32:03"
+	},
+	{
+		"id" : 898,
+		"candidate_number" : 11,
+		"voter_matricula" : "0130374",
+		"vote_time" : "2026-02-23 13:36:57"
+	},
+	{
+		"id" : 899,
+		"candidate_number" : 5,
+		"voter_matricula" : "0100160",
+		"vote_time" : "2026-02-23 13:40:06"
+	},
+	{
+		"id" : 900,
+		"candidate_number" : 4,
+		"voter_matricula" : "0120214",
+		"vote_time" : "2026-02-23 13:59:57"
+	},
+	{
+		"id" : 901,
+		"candidate_number" : 10,
+		"voter_matricula" : "0120029",
+		"vote_time" : "2026-02-23 14:01:01"
+	},
+	{
+		"id" : 902,
+		"candidate_number" : 1,
+		"voter_matricula" : "0085540",
+		"vote_time" : "2026-02-23 14:01:36"
+	},
+	{
+		"id" : 903,
+		"candidate_number" : 7,
+		"voter_matricula" : "0099490",
+		"vote_time" : "2026-02-23 14:04:11"
+	},
+	{
+		"id" : 904,
+		"candidate_number" : 5,
+		"voter_matricula" : "0119874",
+		"vote_time" : "2026-02-23 14:08:30"
+	},
+	{
+		"id" : 905,
+		"candidate_number" : 3,
+		"voter_matricula" : "0109580",
+		"vote_time" : "2026-02-23 14:09:07"
+	},
+	{
+		"id" : 906,
+		"candidate_number" : 13,
+		"voter_matricula" : "0106850",
+		"vote_time" : "2026-02-23 14:10:44"
+	},
+	{
+		"id" : 907,
+		"candidate_number" : 1,
+		"voter_matricula" : "0130422",
+		"vote_time" : "2026-02-23 15:48:53"
+	},
+	{
+		"id" : 908,
+		"candidate_number" : 5,
+		"voter_matricula" : "0103030",
+		"vote_time" : "2026-02-23 15:52:22"
+	},
+	{
+		"id" : 909,
+		"candidate_number" : 3,
+		"voter_matricula" : "0097510",
+		"vote_time" : "2026-02-23 16:02:46"
+	},
+	{
+		"id" : 910,
+		"candidate_number" : 3,
+		"voter_matricula" : "0119849",
+		"vote_time" : "2026-02-23 16:05:55"
+	},
+	{
+		"id" : 911,
+		"candidate_number" : 6,
+		"voter_matricula" : "0119850",
+		"vote_time" : "2026-02-23 16:25:14"
+	},
+	{
+		"id" : 912,
+		"candidate_number" : 10,
+		"voter_matricula" : "0130331",
+		"vote_time" : "2026-02-23 16:27:25"
+	},
+	{
+		"id" : 913,
+		"candidate_number" : 3,
+		"voter_matricula" : "0100870",
+		"vote_time" : "2026-02-23 16:28:42"
+	},
+	{
+		"id" : 914,
+		"candidate_number" : 6,
+		"voter_matricula" : "0102410",
+		"vote_time" : "2026-02-23 16:54:24"
+	},
+	{
+		"id" : 915,
+		"candidate_number" : 1,
+		"voter_matricula" : "0130903",
+		"vote_time" : "2026-02-23 18:39:17"
+	},
+	{
+		"id" : 916,
+		"candidate_number" : 11,
+		"voter_matricula" : "0093420",
+		"vote_time" : "2026-02-23 18:49:59"
+	},
+	{
+		"id" : 917,
+		"candidate_number" : 11,
+		"voter_matricula" : "0130638",
+		"vote_time" : "2026-02-23 18:52:27"
+	},
+	{
+		"id" : 918,
+		"candidate_number" : 11,
+		"voter_matricula" : "0098540",
+		"vote_time" : "2026-02-23 18:53:15"
+	},
+	{
+		"id" : 919,
+		"candidate_number" : 11,
+		"voter_matricula" : "0096590",
+		"vote_time" : "2026-02-23 18:53:36"
+	},
+	{
+		"id" : 920,
+		"candidate_number" : 14,
+		"voter_matricula" : "0093870",
+		"vote_time" : "2026-02-23 18:54:18"
+	},
+	{
+		"id" : 921,
+		"candidate_number" : 14,
+		"voter_matricula" : "0089521",
+		"vote_time" : "2026-02-23 18:54:58"
+	},
+	{
+		"id" : 922,
+		"candidate_number" : 7,
+		"voter_matricula" : "0100850",
+		"vote_time" : "2026-02-23 18:55:56"
+	},
+	{
+		"id" : 923,
+		"candidate_number" : 6,
+		"voter_matricula" : "0119875",
+		"vote_time" : "2026-02-23 18:56:45"
+	},
+	{
+		"id" : 924,
+		"candidate_number" : 14,
+		"voter_matricula" : "0120035",
+		"vote_time" : "2026-02-23 18:57:47"
+	},
+	{
+		"id" : 925,
+		"candidate_number" : 3,
+		"voter_matricula" : "0119840",
+		"vote_time" : "2026-02-23 18:58:22"
+	},
+	{
+		"id" : 926,
+		"candidate_number" : 6,
+		"voter_matricula" : "0119838",
+		"vote_time" : "2026-02-23 18:58:38"
+	},
+	{
+		"id" : 927,
+		"candidate_number" : 14,
+		"voter_matricula" : "0108650",
+		"vote_time" : "2026-02-23 18:59:09"
+	},
+	{
+		"id" : 928,
+		"candidate_number" : 14,
+		"voter_matricula" : "0130953",
+		"vote_time" : "2026-02-23 19:00:18"
+	},
+	{
+		"id" : 929,
+		"candidate_number" : 14,
+		"voter_matricula" : "0130957",
+		"vote_time" : "2026-02-23 19:03:38"
+	},
+	{
+		"id" : 930,
+		"candidate_number" : 14,
+		"voter_matricula" : "0106580",
+		"vote_time" : "2026-02-23 19:06:01"
+	},
+	{
+		"id" : 931,
+		"candidate_number" : 11,
+		"voter_matricula" : "0099130",
+		"vote_time" : "2026-02-23 19:07:32"
+	},
+	{
+		"id" : 932,
+		"candidate_number" : 10,
+		"voter_matricula" : "0120048",
+		"vote_time" : "2026-02-23 19:08:39"
+	},
+	{
+		"id" : 933,
+		"candidate_number" : 14,
+		"voter_matricula" : "0093480",
+		"vote_time" : "2026-02-23 19:09:20"
+	},
+	{
+		"id" : 934,
+		"candidate_number" : 11,
+		"voter_matricula" : "0120043",
+		"vote_time" : "2026-02-23 19:10:35"
+	},
+	{
+		"id" : 935,
+		"candidate_number" : 4,
+		"voter_matricula" : "0108790",
+		"vote_time" : "2026-02-23 19:11:05"
+	},
+	{
+		"id" : 936,
+		"candidate_number" : 12,
+		"voter_matricula" : "0130796",
+		"vote_time" : "2026-02-23 19:12:49"
+	},
+	{
+		"id" : 937,
+		"candidate_number" : 12,
+		"voter_matricula" : "0130811",
+		"vote_time" : "2026-02-23 19:13:10"
+	},
+	{
+		"id" : 938,
+		"candidate_number" : 14,
+		"voter_matricula" : "0085430",
+		"vote_time" : "2026-02-23 19:13:38"
+	},
+	{
+		"id" : 939,
+		"candidate_number" : 6,
+		"voter_matricula" : "0119878",
+		"vote_time" : "2026-02-23 19:14:46"
+	},
+	{
+		"id" : 940,
+		"candidate_number" : 11,
+		"voter_matricula" : "0120085",
+		"vote_time" : "2026-02-23 19:15:52"
+	},
+	{
+		"id" : 941,
+		"candidate_number" : 16,
+		"voter_matricula" : "0120015",
+		"vote_time" : "2026-02-23 19:16:18"
+	},
+	{
+		"id" : 942,
+		"candidate_number" : 11,
+		"voter_matricula" : "0107080",
+		"vote_time" : "2026-02-23 19:17:00"
+	},
+	{
+		"id" : 943,
+		"candidate_number" : 15,
+		"voter_matricula" : "0131035",
+		"vote_time" : "2026-02-23 19:19:01"
+	},
+	{
+		"id" : 944,
+		"candidate_number" : 11,
+		"voter_matricula" : "0099630",
+		"vote_time" : "2026-02-23 19:19:39"
+	},
+	{
+		"id" : 945,
+		"candidate_number" : 13,
+		"voter_matricula" : "0120103",
+		"vote_time" : "2026-02-23 19:23:36"
+	},
+	{
+		"id" : 946,
+		"candidate_number" : 11,
+		"voter_matricula" : "0106420",
+		"vote_time" : "2026-02-23 19:25:37"
+	},
+	{
+		"id" : 947,
+		"candidate_number" : 14,
+		"voter_matricula" : "0069558",
+		"vote_time" : "2026-02-23 19:26:29"
+	},
+	{
+		"id" : 948,
+		"candidate_number" : 8,
+		"voter_matricula" : "0130482",
+		"vote_time" : "2026-02-23 19:27:46"
+	},
+	{
+		"id" : 949,
+		"candidate_number" : 1,
+		"voter_matricula" : "0130643",
+		"vote_time" : "2026-02-23 19:28:11"
+	},
+	{
+		"id" : 950,
+		"candidate_number" : 10,
+		"voter_matricula" : "0097500",
+		"vote_time" : "2026-02-23 19:28:52"
+	},
+	{
+		"id" : 951,
+		"candidate_number" : 14,
+		"voter_matricula" : "0130901",
+		"vote_time" : "2026-02-23 19:29:34"
+	},
+	{
+		"id" : 952,
+		"candidate_number" : 10,
+		"voter_matricula" : "0105060",
+		"vote_time" : "2026-02-23 19:31:42"
+	},
+	{
+		"id" : 953,
+		"candidate_number" : 13,
+		"voter_matricula" : "0102650",
+		"vote_time" : "2026-02-23 19:34:12"
+	},
+	{
+		"id" : 954,
+		"candidate_number" : 13,
+		"voter_matricula" : "0120052",
+		"vote_time" : "2026-02-23 19:34:57"
+	},
+	{
+		"id" : 955,
+		"candidate_number" : 5,
+		"voter_matricula" : "0108760",
+		"vote_time" : "2026-02-23 19:35:42"
+	},
+	{
+		"id" : 956,
+		"candidate_number" : 4,
+		"voter_matricula" : "0130782",
+		"vote_time" : "2026-02-23 19:38:37"
+	},
+	{
+		"id" : 957,
+		"candidate_number" : 13,
+		"voter_matricula" : "0120062",
+		"vote_time" : "2026-02-23 19:45:42"
+	},
+	{
+		"id" : 958,
+		"candidate_number" : 6,
+		"voter_matricula" : "0072770",
+		"vote_time" : "2026-02-23 19:46:13"
+	},
+	{
+		"id" : 959,
+		"candidate_number" : 10,
+		"voter_matricula" : "0120339",
+		"vote_time" : "2026-02-23 19:46:35"
+	},
+	{
+		"id" : 960,
+		"candidate_number" : 2,
+		"voter_matricula" : "0130707",
+		"vote_time" : "2026-02-23 19:49:25"
+	},
+	{
+		"id" : 961,
+		"candidate_number" : 13,
+		"voter_matricula" : "0106900",
+		"vote_time" : "2026-02-23 19:50:52"
+	},
+	{
+		"id" : 962,
+		"candidate_number" : 7,
+		"voter_matricula" : "0130647",
+		"vote_time" : "2026-02-23 20:42:13"
+	},
+	{
+		"id" : 963,
+		"candidate_number" : 6,
+		"voter_matricula" : "0120113",
+		"vote_time" : "2026-02-24 00:36:46"
+	},
+	{
+		"id" : 964,
+		"candidate_number" : 6,
+		"voter_matricula" : "0106540",
+		"vote_time" : "2026-02-24 00:45:16"
+	},
+	{
+		"id" : 965,
+		"candidate_number" : 6,
+		"voter_matricula" : "0130497",
+		"vote_time" : "2026-02-24 00:47:09"
+	},
+	{
+		"id" : 966,
+		"candidate_number" : 6,
+		"voter_matricula" : "0130483",
+		"vote_time" : "2026-02-24 00:50:15"
+	},
+	{
+		"id" : 967,
+		"candidate_number" : 7,
+		"voter_matricula" : "0102000",
+		"vote_time" : "2026-02-24 04:54:35"
+	},
+	{
+		"id" : 968,
+		"candidate_number" : 14,
+		"voter_matricula" : "0130373",
+		"vote_time" : "2026-02-24 07:06:40"
+	},
+	{
+		"id" : 969,
+		"candidate_number" : 13,
+		"voter_matricula" : "0106780",
+		"vote_time" : "2026-02-24 07:07:02"
+	},
+	{
+		"id" : 970,
+		"candidate_number" : 13,
+		"voter_matricula" : "0130430",
+		"vote_time" : "2026-02-24 07:08:01"
+	},
+	{
+		"id" : 971,
+		"candidate_number" : 13,
+		"voter_matricula" : "0106470",
+		"vote_time" : "2026-02-24 07:08:33"
+	},
+	{
+		"id" : 972,
+		"candidate_number" : 14,
+		"voter_matricula" : "0119721",
+		"vote_time" : "2026-02-24 07:09:24"
+	},
+	{
+		"id" : 973,
+		"candidate_number" : 10,
+		"voter_matricula" : "0130463",
+		"vote_time" : "2026-02-24 07:09:44"
+	},
+	{
+		"id" : 974,
+		"candidate_number" : 8,
+		"voter_matricula" : "0130377",
+		"vote_time" : "2026-02-24 07:12:02"
+	},
+	{
+		"id" : 975,
+		"candidate_number" : 16,
+		"voter_matricula" : "0120097",
+		"vote_time" : "2026-02-24 07:12:28"
+	},
+	{
+		"id" : 976,
+		"candidate_number" : 6,
+		"voter_matricula" : "0119861",
+		"vote_time" : "2026-02-24 07:14:56"
+	},
+	{
+		"id" : 977,
+		"candidate_number" : 18,
+		"voter_matricula" : "0089660",
+		"vote_time" : "2026-02-24 07:16:35"
+	},
+	{
+		"id" : 978,
+		"candidate_number" : 2,
+		"voter_matricula" : "0119864",
+		"vote_time" : "2026-02-24 07:19:46"
+	},
+	{
+		"id" : 979,
+		"candidate_number" : 14,
+		"voter_matricula" : "0078050",
+		"vote_time" : "2026-02-24 07:20:36"
+	},
+	{
+		"id" : 980,
+		"candidate_number" : 1,
+		"voter_matricula" : "0108870",
+		"vote_time" : "2026-02-24 07:22:11"
+	},
+	{
+		"id" : 981,
+		"candidate_number" : 14,
+		"voter_matricula" : "0120166",
+		"vote_time" : "2026-02-24 07:23:28"
+	},
+	{
+		"id" : 982,
+		"candidate_number" : 16,
+		"voter_matricula" : "0106430",
+		"vote_time" : "2026-02-24 07:28:17"
+	},
+	{
+		"id" : 983,
+		"candidate_number" : 11,
+		"voter_matricula" : "0130716",
+		"vote_time" : "2026-02-24 07:28:55"
+	},
+	{
+		"id" : 984,
+		"candidate_number" : 4,
+		"voter_matricula" : "0098250",
+		"vote_time" : "2026-02-24 07:29:54"
+	},
+	{
+		"id" : 985,
+		"candidate_number" : 14,
+		"voter_matricula" : "0120016",
+		"vote_time" : "2026-02-24 07:30:38"
+	},
+	{
+		"id" : 986,
+		"candidate_number" : 18,
+		"voter_matricula" : "0120114",
+		"vote_time" : "2026-02-24 07:32:08"
+	},
+	{
+		"id" : 987,
+		"candidate_number" : 11,
+		"voter_matricula" : "0130650",
+		"vote_time" : "2026-02-24 07:40:35"
+	},
+	{
+		"id" : 988,
+		"candidate_number" : 18,
+		"voter_matricula" : "0120206",
+		"vote_time" : "2026-02-24 07:43:45"
+	},
+	{
+		"id" : 989,
+		"candidate_number" : 0,
+		"voter_matricula" : "0088400",
+		"vote_time" : "2026-02-24 07:44:06"
+	},
+	{
+		"id" : 990,
+		"candidate_number" : 2,
+		"voter_matricula" : "0089970",
+		"vote_time" : "2026-02-24 07:45:30"
+	},
+	{
+		"id" : 991,
+		"candidate_number" : 12,
+		"voter_matricula" : "0130328",
+		"vote_time" : "2026-02-24 07:46:46"
+	},
+	{
+		"id" : 992,
+		"candidate_number" : 11,
+		"voter_matricula" : "0093890",
+		"vote_time" : "2026-02-24 07:47:50"
+	},
+	{
+		"id" : 993,
+		"candidate_number" : 18,
+		"voter_matricula" : "0106400",
+		"vote_time" : "2026-02-24 07:57:44"
+	},
+	{
+		"id" : 994,
+		"candidate_number" : 3,
+		"voter_matricula" : "0130692",
+		"vote_time" : "2026-02-24 07:59:35"
+	},
+	{
+		"id" : 995,
+		"candidate_number" : 14,
+		"voter_matricula" : "0120014",
+		"vote_time" : "2026-02-24 08:09:10"
+	},
+	{
+		"id" : 996,
+		"candidate_number" : 14,
+		"voter_matricula" : "0120036",
+		"vote_time" : "2026-02-24 08:14:58"
+	},
+	{
+		"id" : 997,
+		"candidate_number" : 6,
+		"voter_matricula" : "0130456",
+		"vote_time" : "2026-02-24 08:15:43"
+	},
+	{
+		"id" : 998,
+		"candidate_number" : 14,
+		"voter_matricula" : "0078550",
+		"vote_time" : "2026-02-24 08:16:41"
+	},
+	{
+		"id" : 999,
+		"candidate_number" : 10,
+		"voter_matricula" : "0120038",
+		"vote_time" : "2026-02-24 12:56:23"
+	},
+	{
+		"id" : 1000,
+		"candidate_number" : 1,
+		"voter_matricula" : "0130651",
+		"vote_time" : "2026-02-24 12:57:30"
+	},
+	{
+		"id" : 1001,
+		"candidate_number" : 1,
+		"voter_matricula" : "0131014",
+		"vote_time" : "2026-02-24 12:57:58"
+	},
+	{
+		"id" : 1002,
+		"candidate_number" : 1,
+		"voter_matricula" : "0130649",
+		"vote_time" : "2026-02-24 12:58:25"
+	},
+	{
+		"id" : 1003,
+		"candidate_number" : 1,
+		"voter_matricula" : "0130350",
+		"vote_time" : "2026-02-24 12:59:01"
+	},
+	{
+		"id" : 1004,
+		"candidate_number" : 13,
+		"voter_matricula" : "0130436",
+		"vote_time" : "2026-02-24 13:01:12"
+	},
+	{
+		"id" : 1005,
+		"candidate_number" : 1,
+		"voter_matricula" : "0130453",
+		"vote_time" : "2026-02-24 13:02:33"
+	},
+	{
+		"id" : 1006,
+		"candidate_number" : 18,
+		"voter_matricula" : "0130925",
+		"vote_time" : "2026-02-24 13:03:18"
+	},
+	{
+		"id" : 1007,
+		"candidate_number" : 11,
+		"voter_matricula" : "0120079",
+		"vote_time" : "2026-02-24 13:03:42"
+	},
+	{
+		"id" : 1008,
+		"candidate_number" : 12,
+		"voter_matricula" : "0130721",
+		"vote_time" : "2026-02-24 13:04:33"
+	},
+	{
+		"id" : 1009,
+		"candidate_number" : 11,
+		"voter_matricula" : "0094130",
+		"vote_time" : "2026-02-24 13:04:57"
+	},
+	{
+		"id" : 1010,
+		"candidate_number" : 14,
+		"voter_matricula" : "0120100",
+		"vote_time" : "2026-02-24 13:06:43"
+	},
+	{
+		"id" : 1011,
+		"candidate_number" : 13,
+		"voter_matricula" : "0130576",
+		"vote_time" : "2026-02-24 13:07:36"
+	},
+	{
+		"id" : 1012,
+		"candidate_number" : 13,
+		"voter_matricula" : "0099010",
+		"vote_time" : "2026-02-24 13:09:03"
+	},
+	{
+		"id" : 1013,
+		"candidate_number" : 6,
+		"voter_matricula" : "0106760",
+		"vote_time" : "2026-02-24 13:09:25"
+	},
+	{
+		"id" : 1014,
+		"candidate_number" : 14,
+		"voter_matricula" : "0095560",
+		"vote_time" : "2026-02-24 13:10:20"
+	},
+	{
+		"id" : 1015,
+		"candidate_number" : 6,
+		"voter_matricula" : "0108300",
+		"vote_time" : "2026-02-24 13:10:58"
+	},
+	{
+		"id" : 1016,
+		"candidate_number" : 3,
+		"voter_matricula" : "0130755",
+		"vote_time" : "2026-02-24 13:11:51"
+	},
+	{
+		"id" : 1017,
+		"candidate_number" : 12,
+		"voter_matricula" : "0120044",
+		"vote_time" : "2026-02-24 13:14:45"
+	},
+	{
+		"id" : 1018,
+		"candidate_number" : 1,
+		"voter_matricula" : "0119857",
+		"vote_time" : "2026-02-24 13:15:38"
+	},
+	{
+		"id" : 1019,
+		"candidate_number" : 11,
+		"voter_matricula" : "0119993",
+		"vote_time" : "2026-02-24 13:17:25"
+	},
+	{
+		"id" : 1020,
+		"candidate_number" : 6,
+		"voter_matricula" : "0119867",
+		"vote_time" : "2026-02-24 13:18:17"
+	},
+	{
+		"id" : 1021,
+		"candidate_number" : 4,
+		"voter_matricula" : "0131072",
+		"vote_time" : "2026-02-24 13:18:44"
+	},
+	{
+		"id" : 1022,
+		"candidate_number" : 14,
+		"voter_matricula" : "0120212",
+		"vote_time" : "2026-02-24 13:25:19"
+	},
+	{
+		"id" : 1023,
+		"candidate_number" : 14,
+		"voter_matricula" : "0096460",
+		"vote_time" : "2026-02-24 13:27:03"
+	},
+	{
+		"id" : 1024,
+		"candidate_number" : 18,
+		"voter_matricula" : "0073024",
+		"vote_time" : "2026-02-24 13:29:11"
+	},
+	{
+		"id" : 1025,
+		"candidate_number" : 1,
+		"voter_matricula" : "0105490",
+		"vote_time" : "2026-02-24 13:30:53"
+	},
+	{
+		"id" : 1026,
+		"candidate_number" : 6,
+		"voter_matricula" : "0119856",
+		"vote_time" : "2026-02-24 13:32:51"
+	},
+	{
+		"id" : 1027,
+		"candidate_number" : 2,
+		"voter_matricula" : "0130468",
+		"vote_time" : "2026-02-24 13:33:55"
+	},
+	{
+		"id" : 1028,
+		"candidate_number" : 2,
+		"voter_matricula" : "0102480",
+		"vote_time" : "2026-02-24 13:34:40"
+	},
+	{
+		"id" : 1029,
+		"candidate_number" : 17,
+		"voter_matricula" : "0094460",
+		"vote_time" : "2026-02-24 13:39:56"
+	},
+	{
+		"id" : 1030,
+		"candidate_number" : 14,
+		"voter_matricula" : "0120344",
+		"vote_time" : "2026-02-24 13:45:11"
+	},
+	{
+		"id" : 1031,
+		"candidate_number" : 3,
+		"voter_matricula" : "0097060",
+		"vote_time" : "2026-02-24 13:49:13"
+	},
+	{
+		"id" : 1032,
+		"candidate_number" : 7,
+		"voter_matricula" : "0106810",
+		"vote_time" : "2026-02-24 13:52:04"
+	},
+	{
+		"id" : 1033,
+		"candidate_number" : 13,
+		"voter_matricula" : "0091530",
+		"vote_time" : "2026-02-24 13:57:31"
+	},
+	{
+		"id" : 1034,
+		"candidate_number" : 6,
+		"voter_matricula" : "0119889",
+		"vote_time" : "2026-02-24 14:00:43"
+	},
+	{
+		"id" : 1035,
+		"candidate_number" : 3,
+		"voter_matricula" : "0130714",
+		"vote_time" : "2026-02-24 14:04:29"
+	},
+	{
+		"id" : 1036,
+		"candidate_number" : 6,
+		"voter_matricula" : "0105080",
+		"vote_time" : "2026-02-24 14:04:53"
+	},
+	{
+		"id" : 1037,
+		"candidate_number" : 17,
+		"voter_matricula" : "0130799",
+		"vote_time" : "2026-02-24 14:05:17"
+	},
+	{
+		"id" : 1038,
+		"candidate_number" : 17,
+		"voter_matricula" : "0120025",
+		"vote_time" : "2026-02-24 14:06:05"
+	},
+	{
+		"id" : 1039,
+		"candidate_number" : 17,
+		"voter_matricula" : "0120328",
+		"vote_time" : "2026-02-24 14:08:03"
+	},
+	{
+		"id" : 1040,
+		"candidate_number" : 17,
+		"voter_matricula" : "0120069",
+		"vote_time" : "2026-02-24 14:08:35"
+	},
+	{
+		"id" : 1041,
+		"candidate_number" : 17,
+		"voter_matricula" : "0119996",
+		"vote_time" : "2026-02-24 14:13:43"
+	},
+	{
+		"id" : 1042,
+		"candidate_number" : 2,
+		"voter_matricula" : "0130612",
+		"vote_time" : "2026-02-24 14:14:53"
+	},
+	{
+		"id" : 1043,
+		"candidate_number" : 13,
+		"voter_matricula" : "0106930",
+		"vote_time" : "2026-02-24 14:15:31"
+	},
+	{
+		"id" : 1044,
+		"candidate_number" : 12,
+		"voter_matricula" : "0120021",
+		"vote_time" : "2026-02-24 14:15:59"
+	},
+	{
+		"id" : 1045,
+		"candidate_number" : 17,
+		"voter_matricula" : "0130319",
+		"vote_time" : "2026-02-24 14:16:36"
+	},
+	{
+		"id" : 1046,
+		"candidate_number" : 13,
+		"voter_matricula" : "0120093",
+		"vote_time" : "2026-02-24 14:17:35"
+	},
+	{
+		"id" : 1047,
+		"candidate_number" : 14,
+		"voter_matricula" : "0120123",
+		"vote_time" : "2026-02-24 18:58:45"
+	},
+	{
+		"id" : 1048,
+		"candidate_number" : 14,
+		"voter_matricula" : "0130469",
+		"vote_time" : "2026-02-24 18:59:16"
+	},
+	{
+		"id" : 1049,
+		"candidate_number" : 17,
+		"voter_matricula" : "0130724",
+		"vote_time" : "2026-02-24 19:00:19"
+	},
+	{
+		"id" : 1050,
+		"candidate_number" : 8,
+		"voter_matricula" : "0100550",
+		"vote_time" : "2026-02-24 19:01:04"
+	},
+	{
+		"id" : 1051,
+		"candidate_number" : 13,
+		"voter_matricula" : "0093260",
+		"vote_time" : "2026-02-24 19:01:59"
+	},
+	{
+		"id" : 1052,
+		"candidate_number" : 20,
+		"voter_matricula" : "0106460",
+		"vote_time" : "2026-02-24 19:03:02"
+	},
+	{
+		"id" : 1053,
+		"candidate_number" : 11,
+		"voter_matricula" : "0099770",
+		"vote_time" : "2026-02-24 19:03:44"
+	},
+	{
+		"id" : 1054,
+		"candidate_number" : 7,
+		"voter_matricula" : "0108260",
+		"vote_time" : "2026-02-24 19:04:19"
+	},
+	{
+		"id" : 1055,
+		"candidate_number" : 18,
+		"voter_matricula" : "0120116",
+		"vote_time" : "2026-02-24 19:05:13"
+	},
+	{
+		"id" : 1056,
+		"candidate_number" : 7,
+		"voter_matricula" : "0119852",
+		"vote_time" : "2026-02-24 19:05:58"
+	},
+	{
+		"id" : 1057,
+		"candidate_number" : 13,
+		"voter_matricula" : "0120050",
+		"vote_time" : "2026-02-24 19:06:22"
+	},
+	{
+		"id" : 1058,
+		"candidate_number" : 13,
+		"voter_matricula" : "0099610",
+		"vote_time" : "2026-02-24 19:06:40"
+	},
+	{
+		"id" : 1059,
+		"candidate_number" : 7,
+		"voter_matricula" : "0107010",
+		"vote_time" : "2026-02-24 19:07:46"
+	},
+	{
+		"id" : 1060,
+		"candidate_number" : 9,
+		"voter_matricula" : "0108690",
+		"vote_time" : "2026-02-24 19:09:06"
+	},
+	{
+		"id" : 1061,
+		"candidate_number" : 16,
+		"voter_matricula" : "0102310",
+		"vote_time" : "2026-02-24 19:09:30"
+	},
+	{
+		"id" : 1062,
+		"candidate_number" : 9,
+		"voter_matricula" : "0120030",
+		"vote_time" : "2026-02-24 19:10:19"
+	},
+	{
+		"id" : 1063,
+		"candidate_number" : 1,
+		"voter_matricula" : "0119851",
+		"vote_time" : "2026-02-24 19:10:50"
+	},
+	{
+		"id" : 1064,
+		"candidate_number" : 14,
+		"voter_matricula" : "0101730",
+		"vote_time" : "2026-02-24 19:11:31"
+	},
+	{
+		"id" : 1065,
+		"candidate_number" : 13,
+		"voter_matricula" : "0093340",
+		"vote_time" : "2026-02-24 19:12:12"
+	},
+	{
+		"id" : 1066,
+		"candidate_number" : 14,
+		"voter_matricula" : "0130719",
+		"vote_time" : "2026-02-24 19:13:43"
+	},
+	{
+		"id" : 1067,
+		"candidate_number" : 14,
+		"voter_matricula" : "0120045",
+		"vote_time" : "2026-02-24 19:14:14"
+	},
+	{
+		"id" : 1068,
+		"candidate_number" : 16,
+		"voter_matricula" : "0081240",
+		"vote_time" : "2026-02-24 19:14:42"
+	},
+	{
+		"id" : 1069,
+		"candidate_number" : 1,
+		"voter_matricula" : "0119869",
+		"vote_time" : "2026-02-24 19:15:04"
+	},
+	{
+		"id" : 1070,
+		"candidate_number" : 11,
+		"voter_matricula" : "0108920",
+		"vote_time" : "2026-02-24 19:15:30"
+	},
+	{
+		"id" : 1071,
+		"candidate_number" : 11,
+		"voter_matricula" : "0130470",
+		"vote_time" : "2026-02-24 19:16:10"
+	},
+	{
+		"id" : 1072,
+		"candidate_number" : 6,
+		"voter_matricula" : "0106890",
+		"vote_time" : "2026-02-24 19:25:48"
+	},
+	{
+		"id" : 1073,
+		"candidate_number" : 8,
+		"voter_matricula" : "0094150",
+		"vote_time" : "2026-02-24 19:27:28"
+	},
+	{
+		"id" : 1074,
+		"candidate_number" : 16,
+		"voter_matricula" : "0102130",
+		"vote_time" : "2026-02-24 19:31:41"
+	},
+	{
+		"id" : 1075,
+		"candidate_number" : 9,
+		"voter_matricula" : "0106860",
+		"vote_time" : "2026-02-24 19:33:24"
+	},
+	{
+		"id" : 1076,
+		"candidate_number" : 9,
+		"voter_matricula" : "0088050",
+		"vote_time" : "2026-02-24 19:49:21"
+	},
+	{
+		"id" : 1077,
+		"candidate_number" : 16,
+		"voter_matricula" : "0102660",
+		"vote_time" : "2026-02-24 19:54:23"
+	},
+	{
+		"id" : 1078,
+		"candidate_number" : 8,
+		"voter_matricula" : "0130691",
+		"vote_time" : "2026-02-24 20:06:40"
+	},
+	{
+		"id" : 1079,
+		"candidate_number" : 5,
+		"voter_matricula" : "0130760",
+		"vote_time" : "2026-02-24 20:09:20"
+	},
+	{
+		"id" : 1080,
+		"candidate_number" : 14,
+		"voter_matricula" : "0120278",
+		"vote_time" : "2026-02-25 07:15:20"
+	},
+	{
+		"id" : 1081,
+		"candidate_number" : 13,
+		"voter_matricula" : "0106870",
+		"vote_time" : "2026-02-25 07:16:07"
+	},
+	{
+		"id" : 1082,
+		"candidate_number" : 7,
+		"voter_matricula" : "0099700",
+		"vote_time" : "2026-02-25 07:18:30"
+	},
+	{
+		"id" : 1083,
+		"candidate_number" : 14,
+		"voter_matricula" : "0102240",
+		"vote_time" : "2026-02-25 07:19:05"
+	},
+	{
+		"id" : 1084,
+		"candidate_number" : 14,
+		"voter_matricula" : "0087380",
+		"vote_time" : "2026-02-25 07:21:03"
+	},
+	{
+		"id" : 1085,
+		"candidate_number" : 14,
+		"voter_matricula" : "0120307",
+		"vote_time" : "2026-02-25 07:26:13"
+	},
+	{
+		"id" : 1086,
+		"candidate_number" : 1,
+		"voter_matricula" : "0107020",
+		"vote_time" : "2026-02-25 07:29:19"
+	},
+	{
+		"id" : 1087,
+		"candidate_number" : 14,
+		"voter_matricula" : "0119999",
+		"vote_time" : "2026-02-25 07:30:36"
+	},
+	{
+		"id" : 1088,
+		"candidate_number" : 5,
+		"voter_matricula" : "0130948",
+		"vote_time" : "2026-02-25 07:33:39"
+	},
+	{
+		"id" : 1089,
+		"candidate_number" : 16,
+		"voter_matricula" : "0102360",
+		"vote_time" : "2026-02-25 07:36:28"
+	},
+	{
+		"id" : 1090,
+		"candidate_number" : 13,
+		"voter_matricula" : "0095370",
+		"vote_time" : "2026-02-25 07:37:24"
+	},
+	{
+		"id" : 1091,
+		"candidate_number" : 14,
+		"voter_matricula" : "0093640",
+		"vote_time" : "2026-02-25 07:37:57"
+	},
+	{
+		"id" : 1092,
+		"candidate_number" : 16,
+		"voter_matricula" : "0083930",
+		"vote_time" : "2026-02-25 07:38:32"
+	},
+	{
+		"id" : 1093,
+		"candidate_number" : 14,
+		"voter_matricula" : "0080010",
+		"vote_time" : "2026-02-25 07:39:03"
+	},
+	{
+		"id" : 1094,
+		"candidate_number" : 20,
+		"voter_matricula" : "0073610",
+		"vote_time" : "2026-02-25 07:42:16"
+	},
+	{
+		"id" : 1095,
+		"candidate_number" : 14,
+		"voter_matricula" : "0120088",
+		"vote_time" : "2026-02-25 07:45:52"
+	},
+	{
+		"id" : 1096,
+		"candidate_number" : 4,
+		"voter_matricula" : "0094190",
+		"vote_time" : "2026-02-25 07:47:30"
+	},
+	{
+		"id" : 1097,
+		"candidate_number" : 11,
+		"voter_matricula" : "0120084",
+		"vote_time" : "2026-02-25 07:51:58"
+	},
+	{
+		"id" : 1098,
+		"candidate_number" : 7,
+		"voter_matricula" : "0093510",
+		"vote_time" : "2026-02-25 07:55:22"
+	},
+	{
+		"id" : 1099,
+		"candidate_number" : 14,
+		"voter_matricula" : "0130420",
+		"vote_time" : "2026-02-25 08:03:20"
+	},
+	{
+		"id" : 1100,
+		"candidate_number" : 6,
+		"voter_matricula" : "0130863",
+		"vote_time" : "2026-02-25 08:06:42"
+	},
+	{
+		"id" : 1101,
+		"candidate_number" : 12,
+		"voter_matricula" : "0130586",
+		"vote_time" : "2026-02-25 08:07:20"
+	},
+	{
+		"id" : 1102,
+		"candidate_number" : 6,
+		"voter_matricula" : "0130379",
+		"vote_time" : "2026-02-25 08:07:49"
+	},
+	{
+		"id" : 1103,
+		"candidate_number" : 3,
+		"voter_matricula" : "0130583",
+		"vote_time" : "2026-02-25 08:08:18"
+	},
+	{
+		"id" : 1104,
+		"candidate_number" : 14,
+		"voter_matricula" : "0095360",
+		"vote_time" : "2026-02-25 08:09:03"
+	},
+	{
+		"id" : 1105,
+		"candidate_number" : 1,
+		"voter_matricula" : "0106970",
+		"vote_time" : "2026-02-25 08:09:47"
+	},
+	{
+		"id" : 1106,
+		"candidate_number" : 3,
+		"voter_matricula" : "0130545",
+		"vote_time" : "2026-02-25 08:12:09"
+	},
+	{
+		"id" : 1107,
+		"candidate_number" : 3,
+		"voter_matricula" : "0131058",
+		"vote_time" : "2026-02-25 08:12:52"
+	},
+	{
+		"id" : 1108,
+		"candidate_number" : 3,
+		"voter_matricula" : "0131058",
+		"vote_time" : "2026-02-25 08:12:52"
+	},
+	{
+		"id" : 1109,
+		"candidate_number" : 17,
+		"voter_matricula" : "0087870",
+		"vote_time" : "2026-02-25 08:13:37"
+	},
+	{
+		"id" : 1110,
+		"candidate_number" : 11,
+		"voter_matricula" : "0088580",
+		"vote_time" : "2026-02-25 08:14:11"
+	},
+	{
+		"id" : 1111,
+		"candidate_number" : 14,
+		"voter_matricula" : "0097490",
+		"vote_time" : "2026-02-25 08:16:23"
+	},
+	{
+		"id" : 1112,
+		"candidate_number" : 8,
+		"voter_matricula" : "0130994",
+		"vote_time" : "2026-02-25 08:18:20"
+	},
+	{
+		"id" : 1113,
+		"candidate_number" : 5,
+		"voter_matricula" : "0119501",
+		"vote_time" : "2026-02-25 08:19:23"
+	},
+	{
+		"id" : 1114,
+		"candidate_number" : 16,
+		"voter_matricula" : "0094410",
+		"vote_time" : "2026-02-25 12:52:20"
+	},
+	{
+		"id" : 1115,
+		"candidate_number" : 13,
+		"voter_matricula" : "0093210",
+		"vote_time" : "2026-02-25 12:53:10"
+	},
+	{
+		"id" : 1116,
+		"candidate_number" : 10,
+		"voter_matricula" : "0055727",
+		"vote_time" : "2026-02-25 12:54:03"
+	},
+	{
+		"id" : 1117,
+		"candidate_number" : 20,
+		"voter_matricula" : "0120070",
+		"vote_time" : "2026-02-25 12:55:10"
+	},
+	{
+		"id" : 1118,
+		"candidate_number" : 14,
+		"voter_matricula" : "0098240",
+		"vote_time" : "2026-02-25 12:56:22"
+	},
+	{
+		"id" : 1119,
+		"candidate_number" : 14,
+		"voter_matricula" : "0131073",
+		"vote_time" : "2026-02-25 12:57:47"
+	},
+	{
+		"id" : 1120,
+		"candidate_number" : 14,
+		"voter_matricula" : "0120271",
+		"vote_time" : "2026-02-25 12:58:22"
+	},
+	{
+		"id" : 1121,
+		"candidate_number" : 18,
+		"voter_matricula" : "0120037",
+		"vote_time" : "2026-02-25 12:59:39"
+	},
+	{
+		"id" : 1122,
+		"candidate_number" : 14,
+		"voter_matricula" : "0105540",
+		"vote_time" : "2026-02-25 13:00:18"
+	},
+	{
+		"id" : 1123,
+		"candidate_number" : 8,
+		"voter_matricula" : "0131041",
+		"vote_time" : "2026-02-25 13:00:49"
+	},
+	{
+		"id" : 1124,
+		"candidate_number" : 18,
+		"voter_matricula" : "0120022",
+		"vote_time" : "2026-02-25 13:01:37"
+	},
+	{
+		"id" : 1125,
+		"candidate_number" : 6,
+		"voter_matricula" : "0130949",
+		"vote_time" : "2026-02-25 13:02:06"
+	},
+	{
+		"id" : 1126,
+		"candidate_number" : 10,
+		"voter_matricula" : "0120099",
+		"vote_time" : "2026-02-25 13:02:31"
+	},
+	{
+		"id" : 1127,
+		"candidate_number" : 7,
+		"voter_matricula" : "0117070",
+		"vote_time" : "2026-02-25 13:03:09"
+	},
+	{
+		"id" : 1128,
+		"candidate_number" : 6,
+		"voter_matricula" : "0096850",
+		"vote_time" : "2026-02-25 13:03:53"
+	},
+	{
+		"id" : 1129,
+		"candidate_number" : 18,
+		"voter_matricula" : "0130902",
+		"vote_time" : "2026-02-25 13:07:03"
+	},
+	{
+		"id" : 1130,
+		"candidate_number" : 18,
+		"voter_matricula" : "0130464",
+		"vote_time" : "2026-02-25 13:09:34"
+	},
+	{
+		"id" : 1131,
+		"candidate_number" : 15,
+		"voter_matricula" : "0131012",
+		"vote_time" : "2026-02-25 13:11:13"
+	},
+	{
+		"id" : 1132,
+		"candidate_number" : 16,
+		"voter_matricula" : "0120348",
+		"vote_time" : "2026-02-25 13:11:30"
+	},
+	{
+		"id" : 1133,
+		"candidate_number" : 6,
+		"voter_matricula" : "0099190",
+		"vote_time" : "2026-02-25 13:15:14"
+	},
+	{
+		"id" : 1134,
+		"candidate_number" : 8,
+		"voter_matricula" : "0120311",
+		"vote_time" : "2026-02-25 13:19:10"
+	},
+	{
+		"id" : 1135,
+		"candidate_number" : 8,
+		"voter_matricula" : "0130645",
+		"vote_time" : "2026-02-25 13:20:11"
+	},
+	{
+		"id" : 1136,
+		"candidate_number" : 10,
+		"voter_matricula" : "0101860",
+		"vote_time" : "2026-02-25 13:21:10"
+	},
+	{
+		"id" : 1137,
+		"candidate_number" : 17,
+		"voter_matricula" : "0120046",
+		"vote_time" : "2026-02-25 13:21:43"
+	},
+	{
+		"id" : 1138,
+		"candidate_number" : 18,
+		"voter_matricula" : "0120012",
+		"vote_time" : "2026-02-25 13:22:17"
+	},
+	{
+		"id" : 1139,
+		"candidate_number" : 14,
+		"voter_matricula" : "0107070",
+		"vote_time" : "2026-02-25 13:25:04"
+	},
+	{
+		"id" : 1140,
+		"candidate_number" : 18,
+		"voter_matricula" : "0120096",
+		"vote_time" : "2026-02-25 13:31:15"
+	},
+	{
+		"id" : 1141,
+		"candidate_number" : 14,
+		"voter_matricula" : "0130577",
+		"vote_time" : "2026-02-25 13:33:29"
+	},
+	{
+		"id" : 1142,
+		"candidate_number" : 11,
+		"voter_matricula" : "0130839",
+		"vote_time" : "2026-02-25 13:40:28"
+	},
+	{
+		"id" : 1143,
+		"candidate_number" : 18,
+		"voter_matricula" : "0102100",
+		"vote_time" : "2026-02-25 13:40:52"
+	},
+	{
+		"id" : 1144,
+		"candidate_number" : 18,
+		"voter_matricula" : "0101780",
+		"vote_time" : "2026-02-25 13:42:19"
+	},
+	{
+		"id" : 1145,
+		"candidate_number" : 7,
+		"voter_matricula" : "0120175",
+		"vote_time" : "2026-02-25 13:45:39"
+	},
+	{
+		"id" : 1146,
+		"candidate_number" : 18,
+		"voter_matricula" : "0108380",
+		"vote_time" : "2026-02-25 13:46:17"
+	},
+	{
+		"id" : 1147,
+		"candidate_number" : 11,
+		"voter_matricula" : "0085510",
+		"vote_time" : "2026-02-25 13:46:56"
+	},
+	{
+		"id" : 1148,
+		"candidate_number" : 18,
+		"voter_matricula" : "0101000",
+		"vote_time" : "2026-02-25 13:47:20"
+	},
+	{
+		"id" : 1149,
+		"candidate_number" : 14,
+		"voter_matricula" : "0120179",
+		"vote_time" : "2026-02-25 13:48:48"
+	},
+	{
+		"id" : 1150,
+		"candidate_number" : 5,
+		"voter_matricula" : "0112590",
+		"vote_time" : "2026-02-25 13:54:04"
+	},
+	{
+		"id" : 1151,
+		"candidate_number" : 13,
+		"voter_matricula" : "0130434",
+		"vote_time" : "2026-02-25 14:02:29"
+	},
+	{
+		"id" : 1152,
+		"candidate_number" : 8,
+		"voter_matricula" : "0100890",
+		"vote_time" : "2026-02-25 14:05:30"
+	},
+	{
+		"id" : 1153,
+		"candidate_number" : 11,
+		"voter_matricula" : "0102850",
+		"vote_time" : "2026-02-25 14:08:04"
+	},
+	{
+		"id" : 1154,
+		"candidate_number" : 7,
+		"voter_matricula" : "0102440",
+		"vote_time" : "2026-02-25 18:55:23"
+	},
+	{
+		"id" : 1155,
+		"candidate_number" : 11,
+		"voter_matricula" : "0087880",
+		"vote_time" : "2026-02-25 18:55:55"
+	},
+	{
+		"id" : 1156,
+		"candidate_number" : 9,
+		"voter_matricula" : "0120066",
+		"vote_time" : "2026-02-25 18:57:53"
+	},
+	{
+		"id" : 1157,
+		"candidate_number" : 16,
+		"voter_matricula" : "0093610",
+		"vote_time" : "2026-02-25 19:00:52"
+	},
+	{
+		"id" : 1158,
+		"candidate_number" : 1,
+		"voter_matricula" : "0106980",
+		"vote_time" : "2026-02-25 19:01:23"
+	},
+	{
+		"id" : 1159,
+		"candidate_number" : 5,
+		"voter_matricula" : "0107090",
+		"vote_time" : "2026-02-25 19:04:05"
+	},
+	{
+		"id" : 1160,
+		"candidate_number" : 13,
+		"voter_matricula" : "0120024",
+		"vote_time" : "2026-02-25 19:04:51"
+	},
+	{
+		"id" : 1161,
+		"candidate_number" : 11,
+		"voter_matricula" : "0120040",
+		"vote_time" : "2026-02-25 19:05:11"
+	},
+	{
+		"id" : 1162,
+		"candidate_number" : 11,
+		"voter_matricula" : "0102640",
+		"vote_time" : "2026-02-25 19:05:38"
+	},
+	{
+		"id" : 1163,
+		"candidate_number" : 11,
+		"voter_matricula" : "0097130",
+		"vote_time" : "2026-02-25 19:06:29"
+	},
+	{
+		"id" : 1164,
+		"candidate_number" : 10,
+		"voter_matricula" : "0074950",
+		"vote_time" : "2026-02-25 19:06:54"
+	},
+	{
+		"id" : 1165,
+		"candidate_number" : 16,
+		"voter_matricula" : "0120047",
+		"vote_time" : "2026-02-25 19:07:38"
+	},
+	{
+		"id" : 1166,
+		"candidate_number" : 16,
+		"voter_matricula" : "0120041",
+		"vote_time" : "2026-02-25 19:08:02"
+	},
+	{
+		"id" : 1167,
+		"candidate_number" : 14,
+		"voter_matricula" : "0077430",
+		"vote_time" : "2026-02-25 19:11:10"
+	},
+	{
+		"id" : 1168,
+		"candidate_number" : 7,
+		"voter_matricula" : "0062251",
+		"vote_time" : "2026-02-25 19:13:01"
+	},
+	{
+		"id" : 1169,
+		"candidate_number" : 13,
+		"voter_matricula" : "0119994",
+		"vote_time" : "2026-02-25 19:13:58"
+	},
+	{
+		"id" : 1170,
+		"candidate_number" : 20,
+		"voter_matricula" : "0077320",
+		"vote_time" : "2026-02-25 19:15:36"
+	},
+	{
+		"id" : 1171,
+		"candidate_number" : 8,
+		"voter_matricula" : "0130496",
+		"vote_time" : "2026-02-25 19:16:01"
+	},
+	{
+		"id" : 1172,
+		"candidate_number" : 11,
+		"voter_matricula" : "0096020",
+		"vote_time" : "2026-02-25 19:17:58"
+	},
+	{
+		"id" : 1173,
+		"candidate_number" : 13,
+		"voter_matricula" : "0099510",
+		"vote_time" : "2026-02-25 19:18:26"
+	},
+	{
+		"id" : 1174,
+		"candidate_number" : 11,
+		"voter_matricula" : "0120020",
+		"vote_time" : "2026-02-25 19:21:28"
+	},
+	{
+		"id" : 1175,
+		"candidate_number" : 2,
+		"voter_matricula" : "0120176",
+		"vote_time" : "2026-02-25 19:27:27"
+	},
+	{
+		"id" : 1176,
+		"candidate_number" : 13,
+		"voter_matricula" : "0120010",
+		"vote_time" : "2026-02-25 19:38:47"
+	},
+	{
+		"id" : 1177,
+		"candidate_number" : 13,
+		"voter_matricula" : "0074713",
+		"vote_time" : "2026-02-25 19:41:02"
+	},
+	{
+		"id" : 1178,
+		"candidate_number" : 13,
+		"voter_matricula" : "0098550",
+		"vote_time" : "2026-02-25 20:16:01"
+	},
+	{
+		"id" : 1179,
+		"candidate_number" : 14,
+		"voter_matricula" : "0085030",
+		"vote_time" : "2026-02-26 07:22:43"
+	},
+	{
+		"id" : 1180,
+		"candidate_number" : 11,
+		"voter_matricula" : "0093220",
+		"vote_time" : "2026-02-26 07:23:33"
+	},
+	{
+		"id" : 1181,
+		"candidate_number" : 14,
+		"voter_matricula" : "0130462",
+		"vote_time" : "2026-02-26 07:29:36"
+	},
+	{
+		"id" : 1182,
+		"candidate_number" : 14,
+		"voter_matricula" : "0120059",
+		"vote_time" : "2026-02-26 07:34:20"
+	},
+	{
+		"id" : 1183,
+		"candidate_number" : 7,
+		"voter_matricula" : "0120207",
+		"vote_time" : "2026-02-26 07:35:13"
+	},
+	{
+		"id" : 1184,
+		"candidate_number" : 3,
+		"voter_matricula" : "0120355",
+		"vote_time" : "2026-02-26 07:44:15"
+	},
+	{
+		"id" : 1185,
+		"candidate_number" : 14,
+		"voter_matricula" : "0106490",
+		"vote_time" : "2026-02-26 07:48:15"
+	}
+]

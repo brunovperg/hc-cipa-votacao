@@ -5,7 +5,7 @@ const Candidate = (candidate: CandidateType) => {
 		<div className='flex flex-col items-center border p-4 rounded-lg shadow-md w-48 text-2xl'>
 			<img
 				className='h-24 w-24 object-cover mb-4 '
-				src={`candidates/${candidate.number}.jpg`}
+				src={`candidates/${candidate.number}.jpeg`}
 				alt=''
 			/>
 			<h1> {candidate.name}</h1>
